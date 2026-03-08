@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://example.com/course/web-development",
+    "title": "Complete Web Development Bootcamp",
+    "image": "",
+    "description": "Master modern web development with HTML, CSS, JavaScript, React, and Node.js. Build real-world projects.",
+    "rating": 4.8,
+    "timestamp": "2024-01-15",
+    "university": "Tech University"
+  },
+  {
+    "url": "https://example.com/course/data-science",
+    "title": "Data Science and Machine Learning",
+    "image": "",
+    "description": "Learn Python, statistics, machine learning algorithms, and data visualization techniques.",
+    "rating": 4.9,
+    "timestamp": "2024-02-20",
+    "university": "Data Institute"
+  },
+  {
+    "url": "https://example.com/course/mobile-dev",
+    "title": "Mobile App Development with React Native",
+    "image": "",
+    "description": "Build cross-platform mobile applications for iOS and Android using React Native.",
+    "rating": 4.7,
+    "timestamp": "2024-01-28",
+    "university": "Mobile Academy"
+  },
+  {
+    "url": "https://example.com/course/ui-ux",
+    "title": "UI/UX Design Fundamentals",
+    "image": "",
+    "description": "Master user interface and user experience design principles, wireframing, and prototyping.",
+    "rating": 4.6,
+    "timestamp": "2024-03-05",
+    "university": "Design School"
+  },
+  {
+    "url": "https://example.com/course/cloud-computing",
+    "title": "Cloud Computing and AWS Essentials",
+    "image": "",
+    "description": "Learn cloud infrastructure, AWS services, deployment, and scalability techniques.",
+    "rating": 4.8,
+    "timestamp": "2024-02-10",
+    "university": "Cloud Academy"
+  },
+  {
+    "url": "https://example.com/course/cybersecurity",
+    "title": "Cybersecurity and Ethical Hacking",
+    "image": "",
+    "description": "Understand network security, penetration testing, and ethical hacking methodologies.",
+    "rating": 4.9,
+    "timestamp": "2024-01-22",
+    "university": "Security Institute"
+  },
+  {
+    "url": "https://example.com/course/blockchain",
+    "title": "Blockchain and Cryptocurrency Development",
+    "image": "",
+    "description": "Dive into blockchain technology, smart contracts, and decentralized applications.",
+    "rating": 4.5,
+    "timestamp": "2024-03-12",
+    "university": "Blockchain University"
+  },
+  {
+    "url": "https://example.com/course/digital-marketing",
+    "title": "Digital Marketing Masterclass",
+    "image": "",
+    "description": "Master SEO, social media marketing, content strategy, and digital advertising.",
+    "rating": 4.7,
+    "timestamp": "2024-02-25",
+    "university": "Marketing Academy"
+  }
+]

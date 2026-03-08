@@ -1,0 +1,1946 @@
+[
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/networking-google-cloud-platform",
+  "title":"Networking in Google Cloud Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~networking-google-cloud-platform\/XDP~SPECIALIZATION!~networking-google-cloud-platform.jpeg",
+  "description":"This specialization gives participants broad study of core infrastructure and networking options on Google Cloud Platform. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy GCP networking technologies, such as Google Virtual Private Cloud (VPC) networks, subnets, firewalls; interconnection among networks; load balancing; Cloud DNS; Cloud CDN. The specialization will also cover common network design patterns and automated deployment using Deployment Manager.",
+  "rating":4.8,
+  "timestamp":"2022-07-29T23:58:34Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/fundamentals-network-communications",
+  "title":"Fundamentals of Network Communication",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~fundamentals-network-communications\/XDP~COURSE!~fundamentals-network-communications.jpeg",
+  "description":"In this course, we trace the evolution of networks and identify the key concepts and functions that form the basis for layered architecture. We introduce examples of protocols and services that are familiar to the students, and we explain how these services are supported by networks. Further, we explain fundamental concepts in digital communication, and focus on error control techniques that include parity check, polynomial code, and Internet checksum. Students will be required to have some previous programming experience in C-programming (C++\/Java), some fundamental knowledge of computer organization and IT architecture and a background in computer science is a plus.",
+  "rating":4.6,
+  "timestamp":"2022-07-29T23:58:54Z",
+  "university":"University of Colorado System"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/ux-design-jobs",
+  "title":"Design a User Experience for Social Good & Prepare for Jobs",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~ux-design-jobs\/XDP~COURSE!~ux-design-jobs.jpeg",
+  "description":"Design a User Experience for Social Good and Prepare for Jobs is the seventh and final course in a program that will equip you with the skills you need to become an entry-level UX designer. In this course, you will design a dedicated mobile app and a responsive website focused on social good. You will showcase all that you\u2019ve learned during the certificate program to complete the design process from beginning to end: empathizing with users, defining their pain points, coming up with ideas for design solutions, creating wireframes and prototypes, and testing designs to get feedback. By the end of this course, you will have a new cross-platform design project to include in your professional UX portfolio.",
+  "rating":4.8,
+  "timestamp":"2022-07-29T23:59:20Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/database-applications-php",
+  "title":"Building Database Applications in PHP",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~database-applications-php\/XDP~COURSE!~database-applications-php.jpeg",
+  "description":"In this course, we'll look at the object oriented patterns available in PHP. You'll learn how to connect to a MySQL using the Portable Data Objects (PDO) library and issue SQL commands in the the PHP language. We'll also look at how PHP uses cookies and manages session data. You'll learn how PHP avoids double posting data, how flash messages are implemented, and how to use a session to log in users in web applications. We'll then build the first 'complete' application that has multiple screens to Create, Read, Update and Delete (CRUD) our data. This brings all the previous concepts together and will form the basis for all later web applications.  It is assumed that learners have already taken the Building Web Applications course in this specialization.",
+  "rating":4.9,
+  "timestamp":"2022-07-29T23:59:20Z",
+  "university":"University of Michigan"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/web-design-wireframes-prototypes",
+  "title":"Web Design: Wireframes to Prototypes",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~web-design-wireframes-prototypes\/XDP~COURSE!~web-design-wireframes-prototypes.jpeg",
+  "description":"This course is focused on the application of the early UX research to actual user interfaces: the creation of wireframes, high-fidelity mockups, and clickable prototypes. Along the way we will also discuss:",
+  "rating":4.9,
+  "timestamp":"2022-07-29T23:59:20Z",
+  "university":"California Institute of the Arts"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/wireframes-low-fidelity-prototypes",
+  "title":"Build Wireframes and Low-Fidelity Prototypes",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~wireframes-low-fidelity-prototypes\/XDP~COURSE!~wireframes-low-fidelity-prototypes.jpeg",
+  "description":"Build Wireframes and Low-Fidelity Prototypes is the third course in a certificate program that will equip you with the skills you need to apply to entry-level jobs in user experience (UX) design. In this course, you\u2019ll continue to design a mobile app for your professional UX portfolio. You\u2019ll start by creating storyboards and getting familiar with the basics of drawing. Then, you'll create paper wireframes and digital wireframes using the design tool Figma. You\u2019ll also create a paper prototype and a digital low-fidelity prototype in Figma.",
+  "rating":4.9,
+  "timestamp":"2022-07-29T23:59:51Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/introduction-programming-unity",
+  "title":"Introduction to C# Programming and Unity",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~introduction-programming-unity\/XDP~COURSE!~introduction-programming-unity.jpeg",
+  "description":"This course is all about starting to learn how to develop video games using the C# programming language and the Unity game engine on Windows or Mac. Why use C# and Unity instead of some other language and game engine? Well, C# is a really good language for learning how to program and then programming professionally. Also, the Unity game engine is very popular with indie game developers; Unity games were downloaded 16,000,000,000 times in 2016! Finally, C# is one of the programming languages you can use in the Unity environment.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:00:07Z",
+  "university":"University of Colorado System"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/virtual-reality",
+  "title":"Virtual Reality Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~virtual-reality\/XDP~SPECIALIZATION!~virtual-reality.jpeg",
+  "description":"This specialisation from the",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:00:07Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/cplusplusunrealgamedevelopment",
+  "title":"C++ Programming for Unreal Game Development Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~cplusplusunrealgamedevelopment\/XDP~SPECIALIZATION!~cplusplusunrealgamedevelopment.jpeg",
+  "description":"This Specialization is intended for intermediate programmers who want to learn how to program Unreal Engine games using C++. Learners should complete at least one other programming Specialization on Coursera (see",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:00:07Z",
+  "university":"University of Colorado System"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/game-design-and-development",
+  "title":"Game Design and Development with Unity 2020 Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~game-design-and-development\/XDP~SPECIALIZATION!~game-design-and-development.jpeg",
+  "description":"Break into the video game industry with theoretical, technical, and practical knowledge from one of the world\u2019s best programs.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:00:36Z",
+  "university":"Michigan State University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/interaction-design",
+  "title":"Interaction Design Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~interaction-design\/XDP~SPECIALIZATION!~interaction-design.jpeg",
+  "description":"You will learn how to design technologies that bring people joy, rather than frustration. You'll learn how to generate design ideas, techniques for quickly prototyping them, and how to use prototypes to get feedback from other stakeholders like your teammates, clients, and users. You'll also learn principles of visual design, perception, and cognition that inform effective interaction design.",
+  "rating":4.5,
+  "timestamp":"2022-07-30T00:00:36Z",
+  "university":"University of California San Diego"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/uva-darden-digital-product-management",
+  "title":"Digital Product Management Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~uva-darden-digital-product-management\/XDP~SPECIALIZATION!~uva-darden-digital-product-management.jpeg",
+  "description":"This Specialization is intended for both current and new product managers working in digital who want to apply a portfolio of modern practices to developing their products and teams. Through five courses, you will cover applications of product design, hypothesis-driven development and agile, all at the heart of modern product management.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:00:36Z",
+  "university":"University of Virginia"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/web-design",
+  "title":"Web Design for Everybody: Basics of Web Development & Coding Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~web-design\/XDP~SPECIALIZATION!~web-design.jpeg",
+  "description":"This Specialization covers how to write syntactically correct HTML5 and CSS3, and how to create interactive web experiences with JavaScript. Mastering this range of technologies will allow you to develop high quality web sites that, work seamlessly on mobile, tablet, and large screen browsers accessible. During the capstone you will develop a professional-quality web portfolio demonstrating your growth as a web developer and your knowledge of accessible web design. This will include your ability to design and implement a responsive site that utilizes tools to create a site that is accessible to a wide audience, including those with visual, audial, physical, and cognitive impairments.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:01:22Z",
+  "university":"University of Michigan"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-ux-design",
+  "title":"Google UX Design Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-ux-design\/XDP~SPECIALIZATION!~google-ux-design.jpeg",
+  "description":"Prepare for a career in the high-growth field of UX design, no experience or degree required. With professional training designed by Google, get on the fast-track to a competitively paid job.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:01:22Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/foundations-user-experience-design",
+  "title":"Foundations of User Experience (UX) Design",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~foundations-user-experience-design\/XDP~COURSE!~foundations-user-experience-design.jpeg",
+  "description":"Foundations of User Experience (UX) Design is the first of a series of seven courses that will equip you with the skills needed to apply to entry-level jobs in user experience design. UX designers focus on the interactions that people have with products like websites, mobile apps, and physical objects. UX designers make those everyday interactions usable, enjoyable, and accessible. The role of an entry-level UX designer might include empathizing with users, defining their pain points, coming up with ideas for design solutions, creating wireframes, prototypes, and mockups, and testing designs to get feedback.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:01:22Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-ux-design",
+  "title":"Google UX Design Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-ux-design\/XDP~SPECIALIZATION!~google-ux-design.jpeg",
+  "description":"Prepare for a career in the high-growth field of UX design, no experience or degree required. With professional training designed by Google, get on the fast-track to a competitively paid job.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:02:16Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/fundamentals-of-graphic-design",
+  "title":"Fundamentals of Graphic Design",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~fundamentals-of-graphic-design\/XDP~COURSE!~fundamentals-of-graphic-design.jpeg",
+  "description":"Graphic Design is all around us! Words and pictures\u2014the building blocks of graphic design\u2014are the elements that carry the majority of the content in both the digital world and the printed world. As graphic design becomes more visible and prevalent in our lives, graphic design as a practice becomes more important in our culture.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:02:16Z",
+  "university":"California Institute of the Arts"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/html-css-javascript-for-web-developers",
+  "title":"HTML, CSS, and Javascript for Web Developers",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~html-css-javascript-for-web-developers\/XDP~COURSE!~html-css-javascript-for-web-developers.jpeg",
+  "description":"Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today\u2019s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:02:16Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/uva-darden-agile-analytics",
+  "title":"Agile Analytics",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~uva-darden-agile-analytics\/XDP~COURSE!~uva-darden-agile-analytics.jpeg",
+  "description":"Few capabilities focus agile like a strong analytics program. Such a program determines where a team should focus from one agile iteration (sprint) to the next. Successful analytics are rarely hard to understand and are often startling in their clarity. In this course, developed at the Darden School of Business at the University of Virginia, you'll learn how to build a strong analytics infrastructure for your team, integrating it with the core of your drive to value.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:02:59Z",
+  "university":"University of Virginia"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/building-ai-powered-chatbots",
+  "title":"Building AI Powered Chatbots Without Programming",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~building-ai-powered-chatbots\/XDP~COURSE!~building-ai-powered-chatbots.jpeg",
+  "description":"This course will teach you how to create useful chatbots without the need to write any code.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:03:00Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/real-world-product-management",
+  "title":"Real-World Product Management Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~real-world-product-management\/XDP~SPECIALIZATION!~real-world-product-management.jpeg",
+  "description":"Created and offered by ADVANCING WOMEN IN TECH (AWIT). Sponsored by AMAZON WEB SERVICES (AWS).",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:03:42Z",
+  "university":"Advancing Women in Tech"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/michiganux",
+  "title":"User Experience Research and Design Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~michiganux\/XDP~SPECIALIZATION!~michiganux.jpeg",
+  "description":"Integrate UX Research and UX Design to create great products through understanding user needs, rapidly generating prototypes, and evaluating design concepts. Learners will gain hands-on experience with taking a product from initial concept, through user research, ideation and refinement, formal analysis, prototyping, and user testing, applying perspectives and methods to ensure a great user experience at every step.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:03:42Z",
+  "university":"University of Michigan"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/client-needs-and-software-requirements",
+  "title":"Client Needs and Software Requirements",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~client-needs-and-software-requirements\/XDP~COURSE!~client-needs-and-software-requirements.jpeg",
+  "description":"This course covers practical techniques to elicit and express software requirements from client interactions.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:03:42Z",
+  "university":"University of Alberta"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/ui-testing",
+  "title":"Evaluating User Interfaces",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~ui-testing\/XDP~COURSE!~ui-testing.jpeg",
+  "description":"In this course you will learn and practice several techniques for user interface evaluation.  First we start with techniques that can be applied alone or in a design team, including action analysis, walkthroughs, and heuristic evaluation.  Then we move on to user testing, including learning from a series of usability tests carried out in a real usability lab, and techniques to carry out your own tests even without a lab.  Finally, we wrap up the discussion of evaluation--and of UI Design in the specialization as a whole--by looking at the question of how to set and measure usability goals, and in turn, when a design is usable enough to release it.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:04:11Z",
+  "university":"University of Minnesota"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/ui-design",
+  "title":"Introduction to UI Design",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~ui-design\/XDP~COURSE!~ui-design.jpeg",
+  "description":"In this course, you will gain an understanding of the critical importance of user interface design. You will also learn industry-standard methods for how to approach the design of a user interface and key theories and frameworks that underlie the design of most interfaces you use today.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:04:11Z",
+  "university":"University of Minnesota"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/interaction-design",
+  "title":"Interaction Design Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~interaction-design\/XDP~SPECIALIZATION!~interaction-design.jpeg",
+  "description":"You will learn how to design technologies that bring people joy, rather than frustration. You'll learn how to generate design ideas, techniques for quickly prototyping them, and how to use prototypes to get feedback from other stakeholders like your teammates, clients, and users. You'll also learn principles of visual design, perception, and cognition that inform effective interaction design.",
+  "rating":4.5,
+  "timestamp":"2022-07-30T00:04:11Z",
+  "university":"University of California San Diego"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/introduction-to-networking-and-storage",
+  "title":"Introduction to Networking and Storage",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~introduction-to-networking-and-storage\/XDP~COURSE!~introduction-to-networking-and-storage.jpeg",
+  "description":"Gain skills that keep users connected. Learn how to diagnose and repair basic networking and security problems.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:04:50Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/computer-security-systems-management",
+  "title":"Computer Security and Systems Management Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~computer-security-systems-management\/XDP~SPECIALIZATION!~computer-security-systems-management.jpeg",
+  "description":"The Computer Security and Systems Management Specialization focuses on computing in an enterprise environment.  Combining both theory and real world experience and architecture, the courses will prepare you to design and audit secure enterprise systems.  The courses will cover practical use of major server operating systems in an enterprise environment and how to design and operate them securely.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:06:08Z",
+  "university":"University of Colorado System"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/intro-cyber-security",
+  "title":"Introduction to Cyber Security Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~intro-cyber-security\/XDP~SPECIALIZATION!~intro-cyber-security.jpeg",
+  "description":"Introduction to Cyber Security",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:06:08Z",
+  "university":"New York University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/sscp-training",
+  "title":"(ISC)\u00b2 Systems Security Certified Practitioner (SSCP)",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~sscp-training\/XDP~SPECIALIZATION!~sscp-training.jpeg",
+  "description":"Pursue better IT security job opportunities and prove knowledge with confidence. The SSCP Professional Training Certificate shows employers you have the IT security foundation to defend against cyber attacks \u2013 and puts you on a clear path to earning SSCP certification.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:06:08Z",
+  "university":"(ISC)\u00b2"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-it-support",
+  "title":"Google IT Support Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-it-support\/XDP~SPECIALIZATION!~google-it-support.jpeg",
+  "description":"Prepare for a career in the high-growth field of IT, no experience or degree required. Get professional training designed by Google and get on the fast-track to a competitively paid job.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:06:38Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/networking-gcp-defining-implementing-networks",
+  "title":"Networking in Google Cloud: Defining and Implementing Networks",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~networking-gcp-defining-implementing-networks\/XDP~COURSE!~networking-gcp-defining-implementing-networks.jpeg",
+  "description":"This self-paced training course gives participants broad study of networking options on Google Cloud. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy Google Cloud networking technologies, such as Google Cloud Virtual Private Cloud (VPC) networks, subnets and firewalls. The course also covers access control to networks, sharing networks and load balancing.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:06:38Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/redes-informaticas",
+  "title":"Los bits y bytes de las redes inform\u00e1ticas",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~redes-informaticas\/XDP~COURSE!~redes-informaticas.jpeg",
+  "description":"Este curso est\u00e1 dise\u00f1ado para brindar una visi\u00f3n general completa de las redes de computadoras. Abordaremos  todo, desde los fundamentos de las tecnolog\u00edas y los protocolos de redes modernas hasta una descripci\u00f3n general de la nube, aplicaciones pr\u00e1cticas y soluci\u00f3n de problemas de red. Cerraremos viendo c\u00f3mo podr\u00eda aparecer esta informaci\u00f3n en una entrevista laboral y brind\u00e1ndote algunos consejos para que resuelvas problemas en el momento.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:06:38Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/redes-computadores",
+  "title":"Estrutura e Funcionamento das Redes de Computadores",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~redes-computadores\/XDP~COURSE!~redes-computadores.jpeg",
+  "description":"Este curso foi desenvolvido para apresentar uma vis\u00e3o geral completa das redes de computadores. Falaremos sobre v\u00e1rios aspectos, desde os fundamentos das modernas tecnologias e protocolos de rede, passando por uma vis\u00e3o geral da nuvem, at\u00e9 as aplica\u00e7\u00f5es pr\u00e1ticas e solu\u00e7\u00f5es para problemas de rede. Encerraremos discutindo como essas informa\u00e7\u00f5es podem aparecer em uma entrevista de emprego e apresentando dicas para solu\u00e7\u00e3o de problemas pr\u00e1ticos.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:07:05Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/seluk-beluk-jaringan-komputer",
+  "title":"Seluk Beluk Jaringan Komputer",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~seluk-beluk-jaringan-komputer\/XDP~COURSE!~seluk-beluk-jaringan-komputer.jpeg",
+  "description":"Materi ini dirancang untuk memberikan gambaran lengkap tentang jaringan komputer. Kami akan membahas semua mulai dari dasar-dasar teknologi dan protokol jaringan modern kemudian gambaran umum cloud hingga aplikasi praktis dan pemecahan masalah jaringan.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:07:18Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/ibm-cloud-application-development-foundations",
+  "title":"Cloud Application Development Foundations Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~ibm-cloud-application-development-foundations\/XDP~SPECIALIZATION!~ibm-cloud-application-development-foundations.jpeg",
+  "description":"This program will equip you with all the key \nskills and technical\u202fknow-how\u202fto kickstart your career as a full-stack \nCloud Native Developer. Guided by experts at IBM, you will learn to \nbuild your own cloud-based applications and practice\n working with the technologies behind them.\u202f\u202f\u202f\n\nThe Cloud Application Development Foundations Specialization program \nwill teach you the tools and technologies that successful software \ndevelopers use to build, deploy, test, run, and manage Cloud Native \napplications \u2013 putting you in an advantageous position\n to begin a new career in a highly in-demand area.\u202f\u202fYou do not require \nany prior programming experience or Cloud background to start this \nprogram.\u202f\n\nThe courses in this program will help you develop skillsets in a variety\n of technologies including, Cloud foundations, HTML, CSS, JavaScript, \nGitHub, Node.js, React, Cloud Native practices, DevOps, CI\/CD, and \nmore.\u202f After completing all the courses in the program,\n you will have developed and deployed several applications on a cloud \nplatform and delivered Software as a Service (SaaS) solutions using \nCloud Native methodologies.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:07:18Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/computer-networking",
+  "title":"The Bits and Bytes of Computer Networking",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~computer-networking\/XDP~COURSE!~computer-networking.jpeg",
+  "description":"This course is designed to provide a full overview of computer networking. We\u2019ll cover everything from the fundamentals of modern networking technologies and protocols to an overview of the cloud to practical applications and network troubleshooting.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:07:58Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/networking-google-cloud-platform",
+  "title":"Networking in Google Cloud Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~networking-google-cloud-platform\/XDP~SPECIALIZATION!~networking-google-cloud-platform.jpeg",
+  "description":"This specialization gives participants broad study of core infrastructure and networking options on Google Cloud Platform. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy GCP networking technologies, such as Google Virtual Private Cloud (VPC) networks, subnets, firewalls; interconnection among networks; load balancing; Cloud DNS; Cloud CDN. The specialization will also cover common network design patterns and automated deployment using Deployment Manager.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:07:58Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/aws-cloud-technical-essentials",
+  "title":"AWS Cloud Technical Essentials",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~aws-cloud-technical-essentials\/XDP~COURSE!~aws-cloud-technical-essentials.jpeg",
+  "description":"Are you in a technical role and want to learn the fundamentals of AWS? Do you aspire to have a job or career as a cloud developer, architect, or in an operations role? If so, AWS Cloud Technical Essentials is an ideal way to start. This course was designed for those at the beginning of their cloud-learning journey - no prior knowledge of cloud computing or AWS products and services required!",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:07:58Z",
+  "university":"Amazon Web Services"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/ibm-cloud-application-development-foundations",
+  "title":"Cloud Application Development Foundations Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~ibm-cloud-application-development-foundations\/XDP~SPECIALIZATION!~ibm-cloud-application-development-foundations.jpeg",
+  "description":"This program will equip you with all the key \nskills and technical\u202fknow-how\u202fto kickstart your career as a full-stack \nCloud Native Developer. Guided by experts at IBM, you will learn to \nbuild your own cloud-based applications and practice\n working with the technologies behind them.\u202f\u202f\u202f\n\nThe Cloud Application Development Foundations Specialization program \nwill teach you the tools and technologies that successful software \ndevelopers use to build, deploy, test, run, and manage Cloud Native \napplications \u2013 putting you in an advantageous position\n to begin a new career in a highly in-demand area.\u202f\u202fYou do not require \nany prior programming experience or Cloud background to start this \nprogram.\u202f\n\nThe courses in this program will help you develop skillsets in a variety\n of technologies including, Cloud foundations, HTML, CSS, JavaScript, \nGitHub, Node.js, React, Cloud Native practices, DevOps, CI\/CD, and \nmore.\u202f After completing all the courses in the program,\n you will have developed and deployed several applications on a cloud \nplatform and delivered Software as a Service (SaaS) solutions using \nCloud Native methodologies.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:08:20Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/computer-networking",
+  "title":"The Bits and Bytes of Computer Networking",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~computer-networking\/XDP~COURSE!~computer-networking.jpeg",
+  "description":"This course is designed to provide a full overview of computer networking. We\u2019ll cover everything from the fundamentals of modern networking technologies and protocols to an overview of the cloud to practical applications and network troubleshooting.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:08:59Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/site-reliability-engineering-slos",
+  "title":"Site Reliability Engineering: Measuring and Managing Reliability",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~site-reliability-engineering-slos\/XDP~COURSE!~site-reliability-engineering-slos.jpeg",
+  "description":"Service level indicators (SLIs) and service level objectives (SLOs) are fundamental tools for measuring and managing reliability. In this course, students learn approaches for devising appropriate SLIs and SLOs and managing reliability through the use of an error budget.",
+  "rating":4.5,
+  "timestamp":"2022-07-30T00:08:59Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/uva-darden-continous-delivery-devops",
+  "title":"Continuous Delivery & DevOps",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~uva-darden-continous-delivery-devops\/XDP~COURSE!~uva-darden-continous-delivery-devops.jpeg",
+  "description":"Amazon famously delivers new code every 11.6 seconds. Just a few years ago, this was unthinkable: many \u2018cutting edge\u2019 firms would release software quarterly. When it comes to digital innovation, velocity is critical and many would say it\u2019s the most reliable determinant of success.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:08:59Z",
+  "university":"University of Virginia"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/introduction-to-hardware-and-operating-systems",
+  "title":"Introduction to Hardware and Operating Systems",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~introduction-to-hardware-and-operating-systems\/XDP~COURSE!~introduction-to-hardware-and-operating-systems.jpeg",
+  "description":"If you're ready to enter the world of Information Technology (IT), you need job-ready skills. This course enables you to develop the skills to work with computer hardware and operating systems, and is your first step to prepare for all types of tech related careers that require IT Fundamental skills.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:09:29Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/sertifikat-it-support-profesional-google",
+  "title":"IT Support Google Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~sertifikat-it-support-profesional-google\/XDP~SPECIALIZATION!~sertifikat-it-support-profesional-google.jpeg",
+  "description":"Bersiaplah untuk berkarier di bidang IT yang sedang tumbuh pesat, tidak diperlukan pengalaman atau gelar apa pun di sini. Dengan pelatihan profesional yang dirancang Google, bergeraklah di jalur cepat untuk mendapatkan pekerjaan dengan gaji yang kompetitif. Melalui 5 materi yang ada, Anda dapat memperoleh keterampilan yang banyak dibutuhkan dan siap bekerja di tingkat pemula. Hanya membutuhkan waktu kurang dari 10 jam per minggu, dan Anda dapat memperoleh sertifikat dalam waktu kurang dari 6 bulan. Setelah menyelesaikan program sertifikasi ini, Anda bisa mendapatkan kesempatan untuk bekerja dengan mitra konsorsium Google dari berbagai industri.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:09:29Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/sistem-operasi-dan-anda-menjadi-pengguna-yang-berdaya",
+  "title":"Sistem Operasi dan Anda: Menjadi Pengguna yang Berdaya",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~sistem-operasi-dan-anda-menjadi-pengguna-yang-berdaya\/XDP~COURSE!~sistem-operasi-dan-anda-menjadi-pengguna-yang-berdaya.jpeg",
+  "description":"Dalam materi ini \u2014 melalui kombinasi pembelajaran melalui video, demonstrasi, dan praktik langsung \u2014 Anda akan belajar tentang komponen utama sistem operasi dan cara melakukan sejumlah tugas penting seperti mengelola perangkat lunak dan pengguna, serta mengonfigurasi perangkat keras.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:09:29Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/dasar-dasar-dukungan-teknis",
+  "title":"Dasar-Dasar Dukungan Teknis",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~dasar-dasar-dukungan-teknis\/XDP~COURSE!~dasar-dasar-dukungan-teknis.jpeg",
+  "description":"Materi ini adalah rangkaian pertama dari keseluruhan program pelatihan yang akan membantu Anda untuk berperan sebagai IT Support Specialist tingkat pemula. Dalam kursus ini, Anda akan diperkenalkan ke dunia Teknologi Informasi, atau IT. Anda akan mempelajari berbagai aspek Teknologi Informasi, seperti perangkat keras komputer, Internet, perangkat lunak komputer, pemecahan masalah, dan layanan pelanggan. Pelatihan ini mencakup berbagai topik dalam dunia IT yang dirancang untuk memberi Anda gambaran tentang pelajaran apa yang akan diperoleh melalui program sertifikasi ini.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:10:04Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/fundamentos-do-suporte-tecnico",
+  "title":"Fundamentos do Suporte T\u00e9cnico",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~fundamentos-do-suporte-tecnico\/XDP~COURSE!~fundamentos-do-suporte-tecnico.jpeg",
+  "description":"Ele \u00e9 o primeiro de uma s\u00e9rie que visa prepar\u00e1-lo para entrar no mercado de TI como especialista de suporte t\u00e9cnico. Neste curso, apresentaremos o mundo da Tecnologia da Informa\u00e7\u00e3o, ou TI. Voc\u00ea aprender\u00e1 sobre diversas facetas da Tecnologia da Informa\u00e7\u00e3o, como hardware, software, internet, resolu\u00e7\u00e3o de problemas e atendimento ao cliente. Mostraremos como uma entrevista t\u00e9cnica costuma transcorrer e daremos dicas de como se preparar melhor para esse tipo de ocasi\u00e3o. Este curso abrange uma vasta gama de t\u00f3picos da TI, sendo projetado para mostrar um panorama do que est\u00e1 por vir neste programa de certificado.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:10:04Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/palo-alto-networks-cybersecurity-fundamentals",
+  "title":"Palo Alto Networks Cybersecurity Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~palo-alto-networks-cybersecurity-fundamentals\/XDP~SPECIALIZATION!~palo-alto-networks-cybersecurity-fundamentals.jpeg",
+  "description":"The Palo Alto Networks Cybersecurity Professional Certificate prepares students for entry level careers in cybersecurity, with an emphasis on learning the fundamentals of Networking, Network Security, Cloud Security, and Security Operations related to Palo Alto Networks Technology and the cybersecurity industry as a whole.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:10:04Z",
+  "university":"Palo Alto Networks"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/oraclecloud-infrastructure-foundations",
+  "title":"Oracle Cloud Infrastructure Foundations",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~oraclecloud-infrastructure-foundations\/XDP~COURSE!~oraclecloud-infrastructure-foundations.jpeg",
+  "description":"Welcome to the course OCI Foundations Course. This course is a starting point to prepare you for the Oracle Cloud Infrastructure Foundations Associate Certification. Begin with an introduction of the OCI platform, and then dive into the core primitives, compute, storage, networking, identity, databases, security, and more.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:10:33Z",
+  "university":"Oracle"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/ibm-technical-support",
+  "title":"IBM Technical Support  Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~ibm-technical-support\/XDP~SPECIALIZATION!~ibm-technical-support.jpeg",
+  "description":"Get ready for a rewarding",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:10:33Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/technical-support-fundamentals",
+  "title":"Technical Support Fundamentals",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~technical-support-fundamentals\/XDP~COURSE!~technical-support-fundamentals.jpeg",
+  "description":"This course is the first of a series that aims to prepare you for a role as an entry-level IT Support Specialist. In this course, you\u2019ll be introduced to the world of Information Technology, or IT. You\u2019ll learn about the different facets of Information Technology, like computer hardware, the Internet, computer software, troubleshooting, and customer service. This course covers a wide variety of topics in IT that are designed to give you an overview of what\u2019s to come in this certificate program.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:10:53Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-it-automation",
+  "title":"Google IT Automation with Python Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-it-automation\/XDP~SPECIALIZATION!~google-it-automation.jpeg",
+  "description":"This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:10:53Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/devops-and-software-engineering",
+  "title":"IBM DevOps and Software Engineering Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~devops-and-software-engineering\/XDP~SPECIALIZATION!~devops-and-software-engineering.jpeg",
+  "description":"DevOps professionals are in high demand! According to a recent\u202fGitLab report,  DevOps skills are expected to grow 122% over the next five years,  making it one of the fastest growing skills in the workforce.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:10:53Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-it-support",
+  "title":"Google IT Support Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-it-support\/XDP~SPECIALIZATION!~google-it-support.jpeg",
+  "description":"Prepare for a career in the high-growth field of IT, no experience or degree required. Get professional training designed by Google and get on the fast-track to a competitively paid job.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:11:27Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/python-crash-course",
+  "title":"Crash Course on Python",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~python-crash-course\/XDP~COURSE!~python-crash-course.jpeg",
+  "description":"This course is designed to teach you the foundations in order to write simple programs in Python using the most common structures. No previous exposure to programming is needed. By the end of this course, you'll understand the benefits of programming in IT roles; be able to write simple programs using Python; figure out how the building blocks of programming fit together; and combine all of this knowledge to solve a complex programming problem.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:11:27Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-it-automation",
+  "title":"Google IT Automation with Python Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-it-automation\/XDP~SPECIALIZATION!~google-it-automation.jpeg",
+  "description":"This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:11:27Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/technical-support-fundamentals",
+  "title":"Technical Support Fundamentals",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~technical-support-fundamentals\/XDP~COURSE!~technical-support-fundamentals.jpeg",
+  "description":"This course is the first of a series that aims to prepare you for a role as an entry-level IT Support Specialist. In this course, you\u2019ll be introduced to the world of Information Technology, or IT. You\u2019ll learn about the different facets of Information Technology, like computer hardware, the Internet, computer software, troubleshooting, and customer service. This course covers a wide variety of topics in IT that are designed to give you an overview of what\u2019s to come in this certificate program.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:11:48Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-it-support",
+  "title":"Google IT Support Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-it-support\/XDP~SPECIALIZATION!~google-it-support.jpeg",
+  "description":"Prepare for a career in the high-growth field of IT, no experience or degree required. Get professional training designed by Google and get on the fast-track to a competitively paid job.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:11:48Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/enterprise-system-management-security",
+  "title":"Enterprise System Management and Security",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~enterprise-system-management-security\/XDP~COURSE!~enterprise-system-management-security.jpeg",
+  "description":"The world runs on computers.  Your watch, your TV, your car.  You might be familiar on how to operate each of these.  Your home computer you are even more familiar with operating it.  But what does it take to really take computer systems to the next level?  - The enterprise level.  In this course we discuss what makes home computing systems different from enterprise computing systems. This course will also help you prepare and design your own home lab to explore enterprise operating systems.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:11:48Z",
+  "university":"University of Colorado System"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/customer-service-fundamentals",
+  "title":"Customer Service Fundamentals",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~customer-service-fundamentals\/XDP~COURSE!~customer-service-fundamentals.jpeg",
+  "description":"There are a growing number of exciting, well-paying jobs in today\u2019s tech industry that do not require a traditional college degree, an one of the hottest areas with high demand is in IT customer service and support. Customer Service is a perfect entry point to start your career in IT, with a multitude of job openings ranging from onsite or remote help desk work to customer care or client support. We can help you get there with the Customer Service Fundamentals course.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:12:07Z",
+  "university":"Knowledge Accelerators"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/python-operating-system",
+  "title":"Using Python to Interact with the Operating System",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~python-operating-system\/XDP~COURSE!~python-operating-system.jpeg",
+  "description":"By the end of this course, you\u2019ll be able to manipulate files and processes on your computer\u2019s operating system. You\u2019ll also have learned about regular expressions -- a very powerful tool for processing text files -- and you\u2019ll get practice using the Linux command line on a virtual machine. And, this might feel like a stretch right now, but you\u2019ll also write a program that processes a bunch of errors in an actual log file and then generates a summary file. That\u2019s a super useful skill for IT Specialists to know.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:12:17Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/information-systems",
+  "title":"Information\u200b \u200bSystems Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~information-systems\/XDP~SPECIALIZATION!~information-systems.jpeg",
+  "description":"This specialization provides a robust introduction to the key principles and practices of Information Systems Management.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:12:17Z",
+  "university":"University of Minnesota"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/data-scientists-tools",
+  "title":"The Data Scientist\u2019s Toolbox",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~data-scientists-tools\/XDP~COURSE!~data-scientists-tools.jpeg",
+  "description":"In this course you will get an introduction to the main tools and ideas in the data scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with. There are two components to this course. The first is a conceptual introduction to the ideas behind turning data into actionable knowledge. The second is a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:13:05Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/natural-language-processing",
+  "title":"Natural Language Processing Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~natural-language-processing\/XDP~SPECIALIZATION!~natural-language-processing.jpeg",
+  "description":"Natural Language Processing (NLP)",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:13:43Z",
+  "university":"DeepLearning.AI"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/computer-security-systems-management",
+  "title":"Computer Security and Systems Management Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~computer-security-systems-management\/XDP~SPECIALIZATION!~computer-security-systems-management.jpeg",
+  "description":"The Computer Security and Systems Management Specialization focuses on computing in an enterprise environment.  Combining both theory and real world experience and architecture, the courses will prepare you to design and audit secure enterprise systems.  The courses will cover practical use of major server operating systems in an enterprise environment and how to design and operate them securely.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:14:34Z",
+  "university":"University of Colorado System"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/intro-cyber-security",
+  "title":"Introduction to Cyber Security Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~intro-cyber-security\/XDP~SPECIALIZATION!~intro-cyber-security.jpeg",
+  "description":"Introduction to Cyber Security",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:14:34Z",
+  "university":"New York University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/sscp-training",
+  "title":"(ISC)\u00b2 Systems Security Certified Practitioner (SSCP)",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~sscp-training\/XDP~SPECIALIZATION!~sscp-training.jpeg",
+  "description":"Pursue better IT security job opportunities and prove knowledge with confidence. The SSCP Professional Training Certificate shows employers you have the IT security foundation to defend against cyber attacks \u2013 and puts you on a clear path to earning SSCP certification.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:15:18Z",
+  "university":"(ISC)\u00b2"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-it-support",
+  "title":"Google IT Support Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-it-support\/XDP~SPECIALIZATION!~google-it-support.jpeg",
+  "description":"Prepare for a career in the high-growth field of IT, no experience or degree required. Get professional training designed by Google and get on the fast-track to a competitively paid job.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:15:18Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/sistem-operasi-dan-anda-menjadi-pengguna-yang-berdaya",
+  "title":"Sistem Operasi dan Anda: Menjadi Pengguna yang Berdaya",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~sistem-operasi-dan-anda-menjadi-pengguna-yang-berdaya\/XDP~COURSE!~sistem-operasi-dan-anda-menjadi-pengguna-yang-berdaya.jpeg",
+  "description":"Dalam materi ini \u2014 melalui kombinasi pembelajaran melalui video, demonstrasi, dan praktik langsung \u2014 Anda akan belajar tentang komponen utama sistem operasi dan cara melakukan sejumlah tugas penting seperti mengelola perangkat lunak dan pengguna, serta mengonfigurasi perangkat keras.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:15:18Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/seguranca-de-it",
+  "title":"Seguran\u00e7a de TI: Defesa Contra as Artes Obscuras do Mundo Digital",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~seguranca-de-it\/XDP~COURSE!~seguranca-de-it.jpeg",
+  "description":"Este curso aborda uma s\u00e9rie de conceitos, ferramentas e pr\u00e1ticas recomendadas de seguran\u00e7a de TI. Nele, temos uma introdu\u00e7\u00e3o \u00e0s amea\u00e7as e ataques e suas muitas formas de se manifestar. Daremos a voc\u00ea uma base de conhecimento sobre algoritmos de criptografia e como eles s\u00e3o usados para proteger dados. Depois, vamos estudar a fundo os tr\u00eas tipos de seguran\u00e7a da informa\u00e7\u00e3o: autentica\u00e7\u00e3o, autoriza\u00e7\u00e3o e registro. Al\u00e9m disso, vamos abordar solu\u00e7\u00f5es de seguran\u00e7a de rede, de firewalls a op\u00e7\u00f5es de criptografia Wi-Fi. Por fim, vamos analisar o modelo de seguran\u00e7a do Chrome OS em um estudo de caso. O curso \u00e9 encerrado com a jun\u00e7\u00e3o de todos esses elementos em uma arquitetura de seguran\u00e7a detalhada e multicamada, seguida de recomenda\u00e7\u00f5es sobre como integrar uma cultura de seguran\u00e7a \u00e0 sua empresa ou equipe.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:15:48Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/essential-cloud-infrastructure-foundation-id",
+  "title":"Essential Cloud Infrastructure: Foundation dalam bahasa Indonesia",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~essential-cloud-infrastructure-foundation-id\/XDP~COURSE!~essential-cloud-infrastructure-foundation-id.jpeg",
+  "description":"Kursus akselerasi sesuai permintaan selama 1 minggu ini memperkenalkan peserta pada infrastruktur dan layanan platform yang komprehensif dan fleksibel yang disediakan oleh Google Cloud Platform. Melalui kombinasi presentasi video, demo, dan uji coba lab langsung, peserta akan mempelajari dan men-deploy berbagai elemen solusi, termasuk komponen infrastruktur seperti jaringan, mesin virtual, dan layanan aplikasi. Anda akan mempelajari cara menggunakan Google Cloud Platform melalui Console dan Cloud Shell. Anda juga akan mempelajari peran arsitek cloud, pendekatan desain infrastruktur, dan konfigurasi networking virtual dengan Virtual Private Cloud (VPC), Project, Jaringan, Subnetwork, alamat IP, Rute, dan Aturan firewall.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:15:48Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/keamanan-it-pertahanan-terhadap-kejahatan-digital",
+  "title":"Keamanan IT: Pertahanan terhadap Kejahatan Digital",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~keamanan-it-pertahanan-terhadap-kejahatan-digital\/XDP~COURSE!~keamanan-it-pertahanan-terhadap-kejahatan-digital.jpeg",
+  "description":"Pelatihan ini membahas berbagai macam konsep, alat, dan praktik terbaik dari keamanan IT. Di sini akan diperkenalkan ancaman dan serangan dan berbagai cara kemunculan mereka. Kami akan memberi Anda beberapa latar belakang algoritma enkripsi dan bagaimana mereka digunakan untuk melindungi data. Kemudian, kami akan membahas lebih jauh tentang \u201ctiga A\u201ddari keamanan informasi: authentication, authorization, accounting. Kami juga akan membahas solusi keamanan jaringan, mulai dari firewall hingga opsi enkripsi Wifi. Pelatihan ini diakhiri dengan menyatukan semua elemen ini ke dalam arsitektur keamanan yang berlapis-lapis dan mendalam, diikuti dengan rekomendasi tentang cara mengintegrasikan budaya keamanan ke dalam organisasi atau tim Anda.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:15:48Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/it-fundamentals-cybersecurity",
+  "title":"IT Fundamentals for Cybersecurity Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~it-fundamentals-cybersecurity\/XDP~SPECIALIZATION!~it-fundamentals-cybersecurity.jpeg",
+  "description":"There are a growing number of exciting, well-paying jobs in today\u2019s security industry that do not require a traditional college degree.  Forbes estimates that there will be as many as 3.5 million unfilled positions in the industry worldwide by 2021! One position with a severe shortage of skills is as a junior cybersecurity analyst.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:16:19Z",
+  "university":"IBM"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/architecting-google-kubernetes-engine",
+  "title":"Architecting with Google Kubernetes Engine Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~architecting-google-kubernetes-engine\/XDP~SPECIALIZATION!~architecting-google-kubernetes-engine.jpeg",
+  "description":"The Architecting with Google Kubernetes Engine specialization will teach you how to implement solutions using Google Kubernetes Engine, or GKE, including building, scheduling, load balancing, and monitoring workloads, as well as providing for discovery of services, managing role-based access control and security, and providing persistent storage to these applications.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:16:19Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/gcp-architecture",
+  "title":"Architecting with Google Compute Engine Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~gcp-architecture\/XDP~SPECIALIZATION!~gcp-architecture.jpeg",
+  "description":"87% of Google Cloud certified users feel more confident in their cloud skills. This program provides the skills you need to advance your career, and training to support your preparation for the industry-recognized Google Cloud Associate Cloud Engineer certification.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:16:19Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-it-support",
+  "title":"Google IT Support Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-it-support\/XDP~SPECIALIZATION!~google-it-support.jpeg",
+  "description":"Prepare for a career in the high-growth field of IT, no experience or degree required. Get professional training designed by Google and get on the fast-track to a competitively paid job.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:16:44Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/architecting-google-kubernetes-engine",
+  "title":"Architecting with Google Kubernetes Engine Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~architecting-google-kubernetes-engine\/XDP~SPECIALIZATION!~architecting-google-kubernetes-engine.jpeg",
+  "description":"The Architecting with Google Kubernetes Engine specialization will teach you how to implement solutions using Google Kubernetes Engine, or GKE, including building, scheduling, load balancing, and monitoring workloads, as well as providing for discovery of services, managing role-based access control and security, and providing persistent storage to these applications.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:17:01Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/gcp-architecture",
+  "title":"Architecting with Google Compute Engine Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~gcp-architecture\/XDP~SPECIALIZATION!~gcp-architecture.jpeg",
+  "description":"87% of Google Cloud certified users feel more confident in their cloud skills. This program provides the skills you need to advance your career, and training to support your preparation for the industry-recognized Google Cloud Associate Cloud Engineer certification.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:17:01Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/cryptocurrency",
+  "title":"Bitcoin and Cryptocurrency Technologies",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~cryptocurrency\/XDP~COURSE!~cryptocurrency.jpeg",
+  "description":"To really understand what is special about Bitcoin, we need to understand how it works at a technical level. We\u2019ll address the important questions about Bitcoin, such as:",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:17:01Z",
+  "university":"Princeton University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-it-support",
+  "title":"Google IT Support Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-it-support\/XDP~SPECIALIZATION!~google-it-support.jpeg",
+  "description":"Prepare for a career in the high-growth field of IT, no experience or degree required. Get professional training designed by Google and get on the fast-track to a competitively paid job.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:17:33Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/cybersecurity-developing-program-for-business",
+  "title":"Cybersecurity: Developing a Program for Your Business Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~cybersecurity-developing-program-for-business\/XDP~SPECIALIZATION!~cybersecurity-developing-program-for-business.jpeg",
+  "description":"Cybersecurity is an essential business skill for the evolving workplace. For-profit companies, government agencies, and not-for-profit organizations all need technologically proficient, business-savvy information technology security professionals. In this Specialization, you will learn about  a variety of processes for protecting business assets through policy, education and training, and technology best practices. You\u2019ll develop an awareness of the risks and cyber threats or attacks associated with modern information usage, and explore key technical and managerial topics required for a balanced approach to information protection. Topics will include mobility, the Internet of Things, the human factor,  governance and management practices.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:17:33Z",
+  "university":"University System of Georgia"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/information-systems",
+  "title":"Information\u200b \u200bSystems Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~information-systems\/XDP~SPECIALIZATION!~information-systems.jpeg",
+  "description":"This specialization provides a robust introduction to the key principles and practices of Information Systems Management.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:17:33Z",
+  "university":"University of Minnesota"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/cyber-security-business",
+  "title":"Cybersecurity for Business Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~cyber-security-business\/XDP~SPECIALIZATION!~cyber-security-business.jpeg",
+  "description":"It seems anymore that you can't listen to the news without hearing of a data breach.  You may have heard it said before that there are 2 types of companies out there, the ones who have been breached and those who will be breached. Defending against attackers who want to compromise assets can seem like an arduous task, but learning how attacks work and more importantly how to defend against those attacks can be very fulfilling. This specialization is designed to introduce you to practical computer security by teaching you the fundamentals of how you use security in the business world. This course is for those who want to understand how to defend computer systems and assets from attackers and other threats. It is also for those who want to understand how threats and attacks are carried out to help better defend their systems. This specialization is designed for senior business leaders to middle management and system administrators, so they can all speak the same language and get a better handle on their organization's security. Additionally, the course material may help you in passing some industry leading computer security examinations such as Security+ and CISSP.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:18:03Z",
+  "university":"University of Colorado System"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/data-structures-algorithms",
+  "title":"Data Structures and Algorithms Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~data-structures-algorithms\/XDP~SPECIALIZATION!~data-structures-algorithms.jpeg",
+  "description":"Computer science legend Donald Knuth once said \u201cI don\u2019t understand things unless I try to program them.\u201d We also believe that the best way to learn an algorithm is to program it. However, many excellent books and online courses on algorithms, that excel in introducing algorithmic ideas, have not yet succeeded in teaching you how to implement algorithms, the crucial computer science skill that you have to master at your next job interview. We tried to fill this gap by forming a diverse team of instructors that includes world-leading experts in theoretical and applied algorithms at UCSD (Daniel Kane, Alexander Kulikov, and Pavel Pevzner) and a former software engineer at Google (Neil Rhodes). This unique combination of skills makes this Specialization different from other excellent MOOCs on algorithms that are all developed by theoretical computer scientists. While these MOOCs focus on theory, our Specialization is a mix of algorithmic theory\/practice\/applications with software engineering. You will learn algorithms by implementing nearly 100 coding problems in a programming language of your choice.\u00a0To the best of knowledge, no other online course in Algorithms comes close to offering you a wealth of programming challenges (and puzzles!) that you may face at your next job interview. We invested over 3000 hours into designing our challenges as an alternative to multiple choice questions that you usually find in MOOCs.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:18:03Z",
+  "university":"University of California San Diego"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/algorithms",
+  "title":"Algorithms Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~algorithms\/XDP~SPECIALIZATION!~algorithms.jpeg",
+  "description":"Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth.  This specialization is an introduction to algorithms for learners with at least a little programming experience.  The specialization is rigorous but emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details.  After completing this specialization, you will be well-positioned to ace your technical interviews and speak fluently about algorithms with other programmers and computer scientists.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:18:31Z",
+  "university":"Stanford University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/machine-learning-engineering-for-production-mlops",
+  "title":"Machine Learning Engineering for Production (MLOps) Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~machine-learning-engineering-for-production-mlops\/XDP~SPECIALIZATION!~machine-learning-engineering-for-production-mlops.jpeg",
+  "description":"Understanding machine learning and deep learning concepts is essential, but if you\u2019re looking to build an effective AI career, you need production engineering capabilities as well.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:18:31Z",
+  "university":"DeepLearning.AI"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/differential-equations-engineers",
+  "title":"Differential Equations for Engineers",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~differential-equations-engineers\/XDP~COURSE!~differential-equations-engineers.jpeg",
+  "description":"This course is all about differential equations.   Both basic theory and applications are taught.  In the first five weeks we will learn about ordinary differential equations, and in the final week, partial differential equations.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:18:31Z",
+  "university":"The Hong Kong University of Science and Technology"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/precalculus-data-modelling",
+  "title":"Precalculus through Data and Modelling Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~precalculus-data-modelling\/XDP~SPECIALIZATION!~precalculus-data-modelling.jpeg",
+  "description":"This specialization helps to build the foundational material to use mathematics as a tool to model, understand, and interpret the world around us.  This is done through studying functions, their properties, and applications to data analysis.  Concepts of precalculus provide the set of tools for the learner to begin their scientific career, preparing them for future science and calculus courses.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:19:03Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/mathematics-engineers",
+  "title":"Mathematics for Engineers Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~mathematics-engineers\/XDP~SPECIALIZATION!~mathematics-engineers.jpeg",
+  "description":"This specialization was developed for engineering students to self-study engineering mathematics. We expect students are already familiar with single variable calculus and computer programming. Students will learn matrix algebra, differential equations, vector calculus and numerical methods.  MATLAB programming will be taught.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:19:45Z",
+  "university":"The Hong Kong University of Science and Technology"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/differential-equations-engineers",
+  "title":"Differential Equations for Engineers",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~differential-equations-engineers\/XDP~COURSE!~differential-equations-engineers.jpeg",
+  "description":"This course is all about differential equations.   Both basic theory and applications are taught.  In the first five weeks we will learn about ordinary differential equations, and in the final week, partial differential equations.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:19:45Z",
+  "university":"The Hong Kong University of Science and Technology"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/matrix-algebra-engineers",
+  "title":"Matrix Algebra for Engineers",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~matrix-algebra-engineers\/XDP~COURSE!~matrix-algebra-engineers.jpeg",
+  "description":"This course is all about matrices, and concisely covers the linear algebra that an engineer should know.   The mathematics in this course is presented at the level of an advanced high school student, but typically students should take this course after completing a university-level single variable calculus course.  There are no derivatives or integrals in this course, but students are expected to have attained a sufficient level of mathematical maturity.  Nevertheless, anyone who wants to learn the basics of matrix algebra is welcome to join.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:19:45Z",
+  "university":"The Hong Kong University of Science and Technology"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/contenido-matematica-escolar",
+  "title":"Contenido de las matem\u00e1ticas de primaria",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~contenido-matematica-escolar\/XDP~COURSE!~contenido-matematica-escolar.jpeg",
+  "description":"En este curso de acceso gratuito*, conocer\u00e1s algunos temas de las matem\u00e1ticas escolares con la profundidad necesaria para que puedas ayudar a tus estudiantes a aprenderlas.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:20:11Z",
+  "university":"Universidad de los Andes"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/single-variable-calculus",
+  "title":"Calculus: Single Variable Part 1 - Functions",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~single-variable-calculus\/XDP~COURSE!~single-variable-calculus.jpeg",
+  "description":"Calculus is one of the grandest achievements of human thought, explaining everything from planetary orbits to the optimal size of a city to the periodicity of a heartbeat. This brisk course covers the core ideas of single-variable Calculus with emphases on conceptual understanding and applications. The course is ideal for students beginning in the engineering, physical, and social sciences. Distinguishing features of the course include: 1) the introduction and use of Taylor series and approximations from the beginning; 2) a novel synthesis of discrete and continuous forms of Calculus; 3) an emphasis on the conceptual over the computational; and 4) a clear, dynamic, unified approach.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:20:11Z",
+  "university":"University of Pennsylvania"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/vector-calculus-engineers",
+  "title":"Vector Calculus for Engineers",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~vector-calculus-engineers\/XDP~COURSE!~vector-calculus-engineers.jpeg",
+  "description":"This course covers both the basic theory and applications of Vector Calculus. In the first week we learn about scalar and vector fields, in the second week about differentiating fields, in the third week about multidimensional integration and curvilinear coordinate systems.  The fourth week covers line and surface integrals,  and the fifth week covers the fundamental theorems of vector calculus, including the gradient theorem, the divergence theorem and Stokes\u2019 theorem.  These theorems are needed in core engineering subjects such as Electromagnetism and Fluid Mechanics.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:20:11Z",
+  "university":"The Hong Kong University of Science and Technology"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/fibonacci",
+  "title":"Fibonacci Numbers and the Golden Ratio",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~fibonacci\/XDP~COURSE!~fibonacci.jpeg",
+  "description":"Learn the mathematics behind the Fibonacci numbers, the golden ratio, and how they are related. These topics are not usually taught in a typical math curriculum, yet contain many fascinating results that are still accessible to an advanced high school student.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:20:32Z",
+  "university":"The Hong Kong University of Science and Technology"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/matrix-algebra-engineers",
+  "title":"Matrix Algebra for Engineers",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~matrix-algebra-engineers\/XDP~COURSE!~matrix-algebra-engineers.jpeg",
+  "description":"This course is all about matrices, and concisely covers the linear algebra that an engineer should know.   The mathematics in this course is presented at the level of an advanced high school student, but typically students should take this course after completing a university-level single variable calculus course.  There are no derivatives or integrals in this course, but students are expected to have attained a sufficient level of mathematical maturity.  Nevertheless, anyone who wants to learn the basics of matrix algebra is welcome to join.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:20:32Z",
+  "university":"The Hong Kong University of Science and Technology"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/game-theory-1",
+  "title":"Game Theory",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~game-theory-1\/XDP~COURSE!~game-theory-1.jpeg",
+  "description":"Popularized by movies such as \"A Beautiful Mind,\" game theory is the mathematical modeling of strategic interaction among rational (and irrational) agents. Beyond what we call `games' in common language, such as chess, poker, soccer, etc., it includes the modeling of conflict among nations, political campaigns, competition among firms, and trading behavior in markets such as the NYSE. How could you begin to model keyword auctions, and peer to peer file-sharing networks, without accounting for the incentives of the people using them? The course will provide the basics: representing games and strategies, the extensive form (which computer scientists call game trees), Bayesian games (modeling things like auctions), repeated and stochastic games, and more. We'll include a variety of examples including classic games and a few applications.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:20:32Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/sql-for-data-science",
+  "title":"SQL for Data Science",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~sql-for-data-science\/XDP~COURSE!~sql-for-data-science.jpeg",
+  "description":"As data collection has increased exponentially, so has the need for people skilled at using and interacting with data; to be able to think critically, and provide insights to make better decisions and optimize their businesses. This is a data scientist, \u201cpart mathematician, part computer scientist, and part trend spotter\u201d (SAS Institute, Inc.). According to Glassdoor, being a data scientist is the best job in America; with a median base salary of $110,000 and thousands of job openings at a time. The skills necessary to be a good data scientist include being able to retrieve and work with data, and to do that you need to be well versed in SQL, the standard language for communicating with database systems.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:21:00Z",
+  "university":"University of California, Davis"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/data-scientists-tools",
+  "title":"The Data Scientist\u2019s Toolbox",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~data-scientists-tools\/XDP~COURSE!~data-scientists-tools.jpeg",
+  "description":"In this course you will get an introduction to the main tools and ideas in the data scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with. There are two components to this course. The first is a conceptual introduction to the ideas behind turning data into actionable knowledge. The second is a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:21:00Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/mathematics-machine-learning",
+  "title":"Mathematics for Machine Learning Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~mathematics-machine-learning\/XDP~SPECIALIZATION!~mathematics-machine-learning.jpeg",
+  "description":"For a lot of higher level courses in Machine Learning and Data Science, you find you need to freshen up on the basics in mathematics - stuff you may have studied before in school or university, but which was taught in another context, or not very intuitively, such that you struggle to relate it to how it\u2019s used in Computer Science. This specialization aims to bridge that gap, getting you up to speed in the underlying mathematics, building an intuitive understanding, and relating it to Machine Learning and Data Science.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:21:00Z",
+  "university":"Imperial College London"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/mathematical-thinking",
+  "title":"Introduction to Mathematical Thinking",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~mathematical-thinking\/XDP~COURSE!~mathematical-thinking.jpeg",
+  "description":"Learn how to think the way mathematicians do \u2013 a powerful cognitive process developed over thousands of years.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:21:27Z",
+  "university":"Stanford University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/game-theory-1",
+  "title":"Game Theory",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~game-theory-1\/XDP~COURSE!~game-theory-1.jpeg",
+  "description":"Popularized by movies such as \"A Beautiful Mind,\" game theory is the mathematical modeling of strategic interaction among rational (and irrational) agents. Beyond what we call `games' in common language, such as chess, poker, soccer, etc., it includes the modeling of conflict among nations, political campaigns, competition among firms, and trading behavior in markets such as the NYSE. How could you begin to model keyword auctions, and peer to peer file-sharing networks, without accounting for the incentives of the people using them? The course will provide the basics: representing games and strategies, the extensive form (which computer scientists call game trees), Bayesian games (modeling things like auctions), repeated and stochastic games, and more. We'll include a variety of examples including classic games and a few applications.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:21:27Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/sql-for-data-science",
+  "title":"SQL for Data Science",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~sql-for-data-science\/XDP~COURSE!~sql-for-data-science.jpeg",
+  "description":"As data collection has increased exponentially, so has the need for people skilled at using and interacting with data; to be able to think critically, and provide insights to make better decisions and optimize their businesses. This is a data scientist, \u201cpart mathematician, part computer scientist, and part trend spotter\u201d (SAS Institute, Inc.). According to Glassdoor, being a data scientist is the best job in America; with a median base salary of $110,000 and thousands of job openings at a time. The skills necessary to be a good data scientist include being able to retrieve and work with data, and to do that you need to be well versed in SQL, the standard language for communicating with database systems.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:21:27Z",
+  "university":"University of California, Davis"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/research-methods",
+  "title":"Understanding Research Methods",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~research-methods\/XDP~COURSE!~research-methods.jpeg",
+  "description":"This MOOC is about demystifying research and research methods. It will outline the fundamentals of doing research, aimed primarily, but not exclusively, at the postgraduate level. It places the student experience at the centre of our endeavours by engaging learners in a range of robust and challenging discussions and exercises befitting SOAS, University of London's status as a research-intensive university and its rich research heritage.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:22:17Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/projects\/computational-fluid-mechanics-airflow-around-a-spoiler-uktyf",
+  "title":"Computational Fluid Mechanics - Airflow Around a Spoiler",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~computational-fluid-mechanics-airflow-around-a-spoiler-uktyf\/XDP~COURSE!~computational-fluid-mechanics-airflow-around-a-spoiler-uktyf.jpeg",
+  "description":null,
+  "rating":4.4,
+  "timestamp":"2022-07-30T00:22:57Z",
+  "university":"Coursera Project Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/meta-front-end-developer",
+  "title":"Meta Front-End Developer Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~meta-front-end-developer\/XDP~SPECIALIZATION!~meta-front-end-developer.jpeg",
+  "description":"Want to get started in the world of coding and build beautiful websites as a career? This 9-course program, designed by the software engineering experts at Meta, will prepare you for a career as a front-end developer.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:22:57Z",
+  "university":"Meta"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/excel-basics-data-analysis-ibm",
+  "title":"Excel Basics for Data Analysis",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~excel-basics-data-analysis-ibm\/XDP~COURSE!~excel-basics-data-analysis-ibm.jpeg",
+  "description":"This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:22:57Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/essential-cloud-infrastructure-core-services-id",
+  "title":"Essential Cloud Infrastructure: Core Services dalam bahasa Indonesia",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~essential-cloud-infrastructure-core-services-id\/XDP~COURSE!~essential-cloud-infrastructure-core-services-id.jpeg",
+  "description":"Kursus akselerasi sesuai permintaan ini memperkenalkan peserta pada infrastruktur dan layanan platform yang komprehensif dan fleksibel yang disediakan oleh Google Cloud Platform. Melalui kombinasi presentasi video, demo, dan lab praktis, peserta akan mengeksplorasi dan menerapkan berbagai elemen solusi, termasuk komponen infrastruktur seperti jaringan, sistem, dan layanan aplikasi. Kursus ini juga mencakup penerapan solusi praktis termasuk melakukan interkoneksi jaringan dengan aman, kunci enkripsi yang disediakan pelanggan, manajemen keamanan dan akses, kuota dan tagihan, serta pemantauan resource.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:23:30Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/legaltech",
+  "title":"El Abogado del Futuro: Legaltech y la Transformaci\u00f3n Digital del Derecho",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~legaltech\/XDP~COURSE!~legaltech.jpeg",
+  "description":"La revoluci\u00f3n digital cambi\u00f3 nuestra manera de comunicarnos, de comerciar y de relacionarnos. Ahora, est\u00e1 llegando al mundo del derecho.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:23:30Z",
+  "university":"Universidad Austral"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/gcp-fundamentals-core-infrastructure-id",
+  "title":"Google Cloud Fundamentals: Core Infrastructure dalam bahasa Indonesia",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~gcp-fundamentals-core-infrastructure-id\/XDP~COURSE!~gcp-fundamentals-core-infrastructure-id.jpeg",
+  "description":"Kursus ini memperkenalkan Anda pada konsep dan terminologi penting untuk bekerja dengan Google Cloud Platform (GCP). Anda akan mempelajari dan membandingkan berbagai layanan komputasi dan penyimpanan yang tersedia di Google Cloud Platform, termasuk Google App Engine, Google Compute Engine, Google Kubernetes Engine, Google Cloud Storage, Google Cloud SQL, dan BigQuery. Anda akan mempelajari referensi dan fitur pengelolaan kebijakan penting, seperti hierarki Google Cloud Resource Manager dan Google Cloud Identity and Access Management. Lab praktis memberi Anda keterampilan dasar untuk bekerja dengan GCP.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:23:31Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/essential-cloud-infrastructure-foundation-id",
+  "title":"Essential Cloud Infrastructure: Foundation dalam bahasa Indonesia",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~essential-cloud-infrastructure-foundation-id\/XDP~COURSE!~essential-cloud-infrastructure-foundation-id.jpeg",
+  "description":"Kursus akselerasi sesuai permintaan selama 1 minggu ini memperkenalkan peserta pada infrastruktur dan layanan platform yang komprehensif dan fleksibel yang disediakan oleh Google Cloud Platform. Melalui kombinasi presentasi video, demo, dan uji coba lab langsung, peserta akan mempelajari dan men-deploy berbagai elemen solusi, termasuk komponen infrastruktur seperti jaringan, mesin virtual, dan layanan aplikasi. Anda akan mempelajari cara menggunakan Google Cloud Platform melalui Console dan Cloud Shell. Anda juga akan mempelajari peran arsitek cloud, pendekatan desain infrastruktur, dan konfigurasi networking virtual dengan Virtual Private Cloud (VPC), Project, Jaringan, Subnetwork, alamat IP, Rute, dan Aturan firewall.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:24:13Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/cs-tech-interview",
+  "title":"Mastering the Software Engineering Interview",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~cs-tech-interview\/XDP~COURSE!~cs-tech-interview.jpeg",
+  "description":"You\u2019ve hit a major milestone as a computer scientist and are becoming a capable programmer. You now know how to solve problems, write algorithms, and analyze solutions; and you have a wealth of tools (like data structures) at your disposal.  You may now be ready for an internship or (possibly) an entry-level software engineering job.  But can you land the internship\/job?  It depends in part on how well you can solve new technical problems and communicate during interviews.  How can you get better at this?  Practice!",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:24:13Z",
+  "university":"University of California San Diego"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/introduction-to-software-product-management",
+  "title":"Introduction to Software Product Management",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~introduction-to-software-product-management\/XDP~COURSE!~introduction-to-software-product-management.jpeg",
+  "description":"This course highlights the importance and role of software product management. It also provides an overview of the specialization, as well as its goals, structure, and expectations. The course explains the value of process, requirements, planning, and monitoring in producing better software.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:24:13Z",
+  "university":"University of Alberta"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/uva-darden-agile-testing",
+  "title":"Hypothesis-Driven Development",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~uva-darden-agile-testing\/XDP~COURSE!~uva-darden-agile-testing.jpeg",
+  "description":"To deliver agile outcomes, you have to do more than implement agile processes- you have to create focus around what matters to your user and constantly test your ideas. This is easier said than done, but most of today\u2019s high-functioning innovators have a strong culture of experimentation.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:24:51Z",
+  "university":"University of Virginia"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/agile-project-management",
+  "title":"Agile Project Management",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~agile-project-management\/XDP~COURSE!~agile-project-management.jpeg",
+  "description":"This is the fifth course in the Google Project Management Certificate program. This course will explore the history, approach, and philosophy of Agile project management, including the Scrum framework. You will learn how to differentiate and blend Agile and other project management approaches. As you progress through the course, you will learn more about Scrum, exploring its pillars and values and comparing essential Scrum team roles. You will discover how to build, manage, and refine a product backlog, implement Agile\u2019s value-driven delivery strategies, and define a value roadmap. You will also learn strategies to effectively organize the five important Scrum events for a Scrum team, introduce an Agile or Scrum approach to an organization, and coach an Agile team. Finally, you will learn how to search for and land opportunities in Agile roles. Current Google project managers will continue to instruct and provide you with the hands-on approaches, tools, and resources to meet your goals.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:24:51Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/sre-devops-engineer-google-cloud",
+  "title":"Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~sre-devops-engineer-google-cloud\/XDP~SPECIALIZATION!~sre-devops-engineer-google-cloud.jpeg",
+  "description":"This program provides the skills you need to advance your career as a data engineer and provides training to support your preparation for the industry-recognized",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:24:51Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-it-automation",
+  "title":"Google IT Automation with Python Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-it-automation\/XDP~SPECIALIZATION!~google-it-automation.jpeg",
+  "description":"This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:25:33Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/ibm-full-stack-cloud-developer",
+  "title":"IBM Full Stack Software Developer Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~ibm-full-stack-cloud-developer\/XDP~SPECIALIZATION!~ibm-full-stack-cloud-developer.jpeg",
+  "description":"This Professional Certificate will equip you with all the key skills and technical know-how to kickstart your career as a Full-Stack Cloud Native Application Developer. Guided by experts at IBM, you will learn to build your own cloud-based applications and practice working with the technologies behind them. This program consists of 10 courses with ample instructional content as well as hands-on exercises and projects designed to hone your skills and help you build your portfolio.",
+  "rating":4.5,
+  "timestamp":"2022-07-30T00:25:51Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/key-technologies-for-business",
+  "title":"Key Technologies for Business Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~key-technologies-for-business\/XDP~SPECIALIZATION!~key-technologies-for-business.jpeg",
+  "description":"In this Specialization, we will cover 3 key technologies that are foundational and driving significant growth and innovation. These are Cloud Computing, Data Science, and Artificial Intelligence (AI).",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:25:51Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/gcp-cloud-architect",
+  "title":"Preparing for Google Cloud Certification: Cloud Architect Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~gcp-cloud-architect\/XDP~SPECIALIZATION!~gcp-cloud-architect.jpeg",
+  "description":"Google Cloud Professional Cloud Architect certification was ranked",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:25:51Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/sre-devops-engineer-google-cloud",
+  "title":"Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~sre-devops-engineer-google-cloud\/XDP~SPECIALIZATION!~sre-devops-engineer-google-cloud.jpeg",
+  "description":"This program provides the skills you need to advance your career as a data engineer and provides training to support your preparation for the industry-recognized",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:26:17Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-it-automation",
+  "title":"Google IT Automation with Python Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-it-automation\/XDP~SPECIALIZATION!~google-it-automation.jpeg",
+  "description":"This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:26:17Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/key-technologies-for-business",
+  "title":"Key Technologies for Business Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~key-technologies-for-business\/XDP~SPECIALIZATION!~key-technologies-for-business.jpeg",
+  "description":"In this Specialization, we will cover 3 key technologies that are foundational and driving significant growth and innovation. These are Cloud Computing, Data Science, and Artificial Intelligence (AI).",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:26:17Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/hybrid-cloud-service-mesh-anthos",
+  "title":"Hybrid Cloud Service Mesh with Anthos",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~hybrid-cloud-service-mesh-anthos\/XDP~COURSE!~hybrid-cloud-service-mesh-anthos.jpeg",
+  "description":"This on-demand course equips students to understand and adopt Istio-based service-mesh with Anthos for centralized observability, traffic management, and service-level security.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:26:58Z",
+  "university":"Google Cloud"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/alibabacloudbigdata",
+  "title":"Big Data Analytical Platform on Alibaba Cloud",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~alibabacloudbigdata\/XDP~COURSE!~alibabacloudbigdata.jpeg",
+  "description":"Course Description",
+  "rating":4.4,
+  "timestamp":"2022-07-30T00:26:58Z",
+  "university":"Alibaba Cloud Academy"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/dynamodb-nosql-database-driven-apps",
+  "title":"Amazon DynamoDB: Building NoSQL Database-Driven Applications",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~dynamodb-nosql-database-driven-apps\/XDP~COURSE!~dynamodb-nosql-database-driven-apps.jpeg",
+  "description":"This course introduces you to NoSQL databases and the challenges they solve. Expert instructors will dive deep into Amazon DynamoDB topics such as recovery, SDKs, partition keys, security and encryption, global tables, stateless applications, streams, and best practices.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:26:58Z",
+  "university":"Amazon Web Services"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/duke-programming-web",
+  "title":"Programming Foundations with JavaScript, HTML and CSS",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~duke-programming-web\/XDP~COURSE!~duke-programming-web.jpeg",
+  "description":"Learn foundational programming concepts (e.g., functions, for loops, conditional statements) and how to solve problems like a programmer. In addition, learn basic web development as you build web pages using HTML, CSS, JavaScript. By the end of the course, will create a web page where others can upload their images and apply image filters that you create.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:27:41Z",
+  "university":"Duke University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/python",
+  "title":"Programming for Everybody (Getting Started with Python)",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~python\/XDP~COURSE!~python.jpeg",
+  "description":"This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook \u201cPython for Everybody\u201d.  Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 3.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:27:41Z",
+  "university":"University of Michigan"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/meta-back-end-developer",
+  "title":"Meta Back-End Developer Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~meta-back-end-developer\/XDP~SPECIALIZATION!~meta-back-end-developer.jpeg",
+  "description":"Ready to gain new skills and learn the tools developers use to create websites and web applications? This 10-course program, designed by the software engineering experts at\u00a0 Meta, will prepare you for an entry-level career as a back-end developer.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:28:14Z",
+  "university":"Meta"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/excel-mysql",
+  "title":"Excel to MySQL: Analytic Techniques for Business Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~excel-mysql\/XDP~SPECIALIZATION!~excel-mysql.jpeg",
+  "description":"Formulate data questions, explore and visualize large datasets, and inform strategic decisions.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:28:14Z",
+  "university":"Duke University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/excel-essentials",
+  "title":"Excel Skills for Business: Essentials",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~excel-essentials\/XDP~COURSE!~excel-essentials.jpeg",
+  "description":"In this first course of the specialization Excel Skills for Business, you will learn the essentials of Microsoft Excel. Within six weeks, you will be able to expertly navigate the Excel user interface, perform basic calculations with formulas and functions, professionally format spreadsheets, and create visualizations of data through charts and graphs.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:28:14Z",
+  "university":"Macquarie University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/visualize-data",
+  "title":"Share Data Through the Art of Visualization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~visualize-data\/XDP~COURSE!~visualize-data.jpeg",
+  "description":"This is the sixth course in the Google Data Analytics Certificate. These courses will equip you with the skills needed to apply to introductory-level data analyst jobs. You\u2019ll learn how to visualize and present your data findings as you complete the data analysis process. This course will show you how data visualizations, such as visual dashboards, can help bring your data to life. You\u2019ll also explore Tableau, a data visualization platform that will help you create effective visualizations for your presentations. Current Google data analysts will continue to instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:28:41Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/what-is-corruption-anti-corruption-compliance",
+  "title":"What is Corruption: Anti-Corruption and Compliance",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~what-is-corruption-anti-corruption-compliance\/XDP~COURSE!~what-is-corruption-anti-corruption-compliance.jpeg",
+  "description":"Have you ever paid someone for doing you a favor?",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:28:41Z",
+  "university":"University of Pennsylvania"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/effective-compliance-programs",
+  "title":"Effective Compliance Programs",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~effective-compliance-programs\/XDP~COURSE!~effective-compliance-programs.jpeg",
+  "description":"Once you have an understanding of what compliance is, and why it may be important, it is natural to wonder next, \u201cWhat should I do about it?\u201d  In this course, we\u2019ll explore one of the key factors for creating a positive culture of compliance: human psychology. We\u2019ll think about what drives us, what makes us pay attention, what distracts, and how all of these pieces help build a strong belief in an organizational culture of compliance.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:28:41Z",
+  "university":"University of Pennsylvania"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/excel-intermediate-1",
+  "title":"Excel Skills for Business: Intermediate I",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~excel-intermediate-1\/XDP~COURSE!~excel-intermediate-1.jpeg",
+  "description":"Spreadsheet software remains one of the most ubiquitous pieces of software used in workplaces across the world. Learning to confidently operate this software means adding a highly valuable asset to your employability portfolio. In the United States alone, millions of job advertisements requiring Excel skills are posted every day. Research by Burning Glass Technologies and Capital One shows that digitals skills lead to higher income and better employment opportunities at a time when digital skills job are growing much faster than non-digital jobs.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:29:02Z",
+  "university":"Macquarie University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/proje-yonetiminin-temelleri",
+  "title":"Proje Y\u00f6netiminin Temelleri",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~proje-yonetiminin-temelleri\/XDP~COURSE!~proje-yonetiminin-temelleri.jpeg",
+  "description":"Bu kurs, sizi, proje y\u00f6netiminde giri\u015f seviyesindeki pozisyonlara ba\u015fvurman\u0131z i\u00e7in gereken becerileri kazand\u0131rmaya y\u00f6nelik alt\u0131 kursluk serinin ilkidir. Proje y\u00f6neticileri, \u00e7al\u0131\u015ft\u0131klar\u0131 kurumlar\u0131n ba\u015far\u0131l\u0131 olmas\u0131na yard\u0131mc\u0131 olmak i\u00e7in kritik projelerin y\u00f6netilmesinde, planlanmas\u0131nda ve uygulanmas\u0131nda kilit rol oynar. Bu kursta, temel proje y\u00f6netimi terminolojisini ke\u015ffedecek ve bir proje y\u00f6neticisinin g\u00f6rev ve sorumluluklar\u0131n\u0131 derinlemesine kavrayacaks\u0131n\u0131z. Ayr\u0131ca, bu program\u0131 tamamlad\u0131ktan sonra ba\u015fvurabilece\u011finiz i\u015f t\u00fcrlerini size tan\u0131taca\u011f\u0131z. Program boyunca, Google\u2019da \u00e7al\u0131\u015fan proje y\u00f6neticilerinden dersler alacaks\u0131n\u0131z. Bu y\u00f6neticiler size sunduklar\u0131 \u00e7ok boyutlu e\u011fitim sayesinde i\u015fteyken uygulayabilece\u011finiz beceriler edinmenize yard\u0131mc\u0131 olacaklar.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:29:02Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/uva-darden-getting-started-agile",
+  "title":"Agile Meets Design Thinking",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~uva-darden-getting-started-agile\/XDP~COURSE!~uva-darden-getting-started-agile.jpeg",
+  "description":"Despite everyone's good intentions, hard work and solid ideas, too many teams end up creating products that no one wants, no one can use, and no one buys. But it doesn't have to be this way. Agile and design thinking offer a different--and effective--approach to product development, one that results in valuable solutions to meaningful problems. In this course, you\u2019ll learn how to determine what's valuable to a user early in the process--to frontload value--by focusing your team on testable narratives about the user and creating a strong shared perspective.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:29:02Z",
+  "university":"University of Virginia"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/remote-team-management",
+  "title":"How to Manage a Remote Team",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~remote-team-management\/XDP~COURSE!~remote-team-management.jpeg",
+  "description":"Remote management is much more than just implementing a work-from-home policy. In this course, you\u2019ll learn and apply remote work best practices, build your remote work policy, and prepare your team for success.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:29:30Z",
+  "university":"GitLab"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/schedule-projects",
+  "title":"Budgeting and Scheduling Projects",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~schedule-projects\/XDP~COURSE!~schedule-projects.jpeg",
+  "description":"A good project schedule helps all team members\u2019 work together to meet project objectives. A project budget with realistic cost constraints is also an essential bedrock of any project. In this course you\u2019ll learn to plan and stick to time and cost constraints in order to ensure the success of your projects.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:29:30Z",
+  "university":"University of California, Irvine"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/project-initiation-google",
+  "title":"Project Initiation: Starting a Successful Project",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~project-initiation-google\/XDP~COURSE!~project-initiation-google.jpeg",
+  "description":"This is the second course in the Google Project Management Certificate program. This course will show you how to set a project up for success in the first phase of the project life cycle: the project initiation phase. In exploring the key components of this phase, you\u2019ll learn how to define and manage project goals, deliverables, scope, and success criteria. You\u2019ll discover how to use tools and templates like stakeholder analysis grids and project charters to help you set project expectations and communicate roles and responsibilities. Current Google project managers will continue to instruct and provide you with hands-on approaches for accomplishing these tasks while showing you the best project management tools and resources for the job at hand.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:29:58Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/career-success",
+  "title":"Career Success Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~career-success\/XDP~SPECIALIZATION!~career-success.jpeg",
+  "description":"This series of courses will help you build, develop and hone the essential skills needed to improve your employability and advancement in today\u2019s dynamic workforce.  The courses in this Specialization may be taken in any order. Each course can also be taken independently. The Specialization concludes with a Capstone project that will give you the opportunity to integrate and apply the skills you have gained throughout the courses to your individual and organizational needs.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:29:58Z",
+  "university":"University of California, Irvine"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/negotiation-skills",
+  "title":"Successful Negotiation: Essential Strategies and Skills",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~negotiation-skills\/XDP~COURSE!~negotiation-skills.jpeg",
+  "description":"We all negotiate on a daily basis. On a personal level, we negotiate with friends, family, landlords, car sellers and employers, among others. Negotiation is also the key to business success. No business can survive without profitable contracts. Within a company, negotiation skills can lead to your career advancement.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:29:58Z",
+  "university":"University of Michigan"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/improve-english",
+  "title":"Improve Your English Communication Skills Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~improve-english\/XDP~SPECIALIZATION!~improve-english.jpeg",
+  "description":"This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online. Whether you want to communicate to potential employers, employees, partners or clients, better English communication can help you achieve your language and professional goals. The Capstone course will focus especially on making those important connections to take your career or business to the next level. Make yourself more competitive by improving your English through this Specialization: Improve Your English Communication Skills.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:30:27Z",
+  "university":"Georgia Institute of Technology"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/careerdevelopment",
+  "title":"English for Career Development",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~careerdevelopment\/XDP~COURSE!~careerdevelopment.jpeg",
+  "description":"Welcome to English for Career Development, a course created by the University of Pennsylvania, and funded by the U.S. Department of State Bureau of Educational and Cultural Affairs, Office of English Language Programs.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:30:27Z",
+  "university":"University of Pennsylvania"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/cybersecurity-developing-program-for-business",
+  "title":"Cybersecurity: Developing a Program for Your Business Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~cybersecurity-developing-program-for-business\/XDP~SPECIALIZATION!~cybersecurity-developing-program-for-business.jpeg",
+  "description":"Cybersecurity is an essential business skill for the evolving workplace. For-profit companies, government agencies, and not-for-profit organizations all need technologically proficient, business-savvy information technology security professionals. In this Specialization, you will learn about  a variety of processes for protecting business assets through policy, education and training, and technology best practices. You\u2019ll develop an awareness of the risks and cyber threats or attacks associated with modern information usage, and explore key technical and managerial topics required for a balanced approach to information protection. Topics will include mobility, the Internet of Things, the human factor,  governance and management practices.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:30:27Z",
+  "university":"University System of Georgia"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/information-systems",
+  "title":"Information\u200b \u200bSystems Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~information-systems\/XDP~SPECIALIZATION!~information-systems.jpeg",
+  "description":"This specialization provides a robust introduction to the key principles and practices of Information Systems Management.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:31:03Z",
+  "university":"University of Minnesota"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/cyber-security-business",
+  "title":"Cybersecurity for Business Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~cyber-security-business\/XDP~SPECIALIZATION!~cyber-security-business.jpeg",
+  "description":"It seems anymore that you can't listen to the news without hearing of a data breach.  You may have heard it said before that there are 2 types of companies out there, the ones who have been breached and those who will be breached. Defending against attackers who want to compromise assets can seem like an arduous task, but learning how attacks work and more importantly how to defend against those attacks can be very fulfilling. This specialization is designed to introduce you to practical computer security by teaching you the fundamentals of how you use security in the business world. This course is for those who want to understand how to defend computer systems and assets from attackers and other threats. It is also for those who want to understand how threats and attacks are carried out to help better defend their systems. This specialization is designed for senior business leaders to middle management and system administrators, so they can all speak the same language and get a better handle on their organization's security. Additionally, the course material may help you in passing some industry leading computer security examinations such as Security+ and CISSP.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:31:03Z",
+  "university":"University of Colorado System"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/communication-strategies-virtual-age",
+  "title":"Communication Strategies for a Virtual Age",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~communication-strategies-virtual-age\/XDP~COURSE!~communication-strategies-virtual-age.jpeg",
+  "description":"Communication has changed! The traditional rules for speaking and presenting, meeting coordination, influencing people, negotiating and selling ideas no longer apply in a world of skype, messenger, video and teleconference.  This course will act as an overview on several concepts each of which could be a course of their own and our goal is to give you tools that you can practice and perfect on your own.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:31:31Z",
+  "university":"University of Toronto"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/improve-english",
+  "title":"Improve Your English Communication Skills Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~improve-english\/XDP~SPECIALIZATION!~improve-english.jpeg",
+  "description":"This Specialization helps you improve your professional communication in English for successful business interactions. Each course focuses on a particular area of communication in English:  writing emails, speaking at meetings and interviews, giving presentations, and networking online. Whether you want to communicate to potential employers, employees, partners or clients, better English communication can help you achieve your language and professional goals. The Capstone course will focus especially on making those important connections to take your career or business to the next level. Make yourself more competitive by improving your English through this Specialization: Improve Your English Communication Skills.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:31:31Z",
+  "university":"Georgia Institute of Technology"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/good-with-words-speaking-and-presenting",
+  "title":"Good with Words: Speaking and Presenting Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~good-with-words-speaking-and-presenting\/XDP~SPECIALIZATION!~good-with-words-speaking-and-presenting.jpeg",
+  "description":"Suppose you were good with words. Suppose when you decided to speak, the message you delivered\u2014and the way you delivered it\u2014successfully connected with your intended audience. What would that mean for your career prospects? What would that mean for your comfort level in social situations? And perhaps most importantly, what would that mean for your satisfaction with the personal relationships you value the most?\n\nThis specialization is designed to help you find out. Based on an award-winning course and workshop series at the University of Michigan that has been taken by students training to enter a wide range of fields\u2014law, business, medicine, social work, public policy, design, engineering, and many more\u2014it removes the guesswork from figuring out how to communicate clearly and compellingly.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:31:31Z",
+  "university":"University of Michigan"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/communicate-with-impact",
+  "title":"Storytelling and influencing: Communicate with impact",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~communicate-with-impact\/XDP~COURSE!~communicate-with-impact.jpeg",
+  "description":"An ambitious vision for the future of your organisation isn\u2019t enough \u2013 how do you communicate this vision to get your colleagues on board? The ability to effectively communicate and persuade others is a key leadership skill. Traditional and common-sense models of communication and persuasion often fail to capture the complex nature of \u2018influencing\u2019. Via structured learning activities (video lectures, quizzes, discussion prompts and written assessments) this course will develop your capacity to communicate appropriately in different situational and cultural contexts, making you a highly influential leader.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:32:21Z",
+  "university":"Macquarie University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/transferencia-tecnologica-investigacion",
+  "title":"Transferencia tecnol\u00f3gica: De la investigaci\u00f3n al mercado.",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~transferencia-tecnologica-investigacion\/XDP~COURSE!~transferencia-tecnologica-investigacion.jpeg",
+  "description":"Este MOOC fue desarrollado para fortalecer las capacidades de gesti\u00f3n de la transferencia tecnol\u00f3gica de acad\u00e9micos e investigadores de las diferentes disciplinas, gestores tecnol\u00f3gicos y estudiantes de postgrado. Pretende ser un apoyo para todos aquellos que quieran que sus resultados de investigaci\u00f3n se conviertan en productos o servicios que impacten en la calidad de vida de las personas mediante su transferencia a empresas o instituciones, o a trav\u00e9s de la generaci\u00f3n de emprendimientos de base tecnol\u00f3gica.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:33:05Z",
+  "university":"Pontificia Universidad Cat\u00f3lica de Chile"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/excel-vba-for-creative-problem-solving-part-1",
+  "title":"Excel\/VBA for Creative Problem Solving, Part 1",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~excel-vba-for-creative-problem-solving-part-1\/XDP~COURSE!~excel-vba-for-creative-problem-solving-part-1.jpeg",
+  "description":"\"Excel\/VBA for Creative Problem Solving, Part 1\" is aimed at learners who are seeking to augment, expand, optimize, and increase the efficiency of their Excel spreadsheet skills by tapping into the powerful programming, automation, and customization capabilities available with Visual Basic for Applications (VBA).",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:33:05Z",
+  "university":"University of Colorado Boulder"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/experimentation",
+  "title":"Experimentation for Improvement",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~experimentation\/XDP~COURSE!~experimentation.jpeg",
+  "description":"We are always using experiments to improve our lives, our community, and our work. Are you doing it efficiently? Or are you (incorrectly) changing one thing at a time and hoping for the best?",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:33:43Z",
+  "university":"McMaster University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/excel-vba-for-creative-problem-solving-part-2",
+  "title":"Excel\/VBA for Creative Problem Solving, Part 2",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~excel-vba-for-creative-problem-solving-part-2\/XDP~COURSE!~excel-vba-for-creative-problem-solving-part-2.jpeg",
+  "description":"\"Excel\/VBA for Creative Problem Solving, Part 2\" builds off of knowledge and skills obtained in \"Excel\/VBA for Creative Problem Solving, Part 1\" and is aimed at learners who are seeking to augment, expand, optimize, and increase the efficiency of their Excel spreadsheet skills by tapping into the powerful programming, automation, and customization capabilities available with Visual Basic for Applications (VBA).",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:33:43Z",
+  "university":"University of Colorado Boulder"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/being-researcher",
+  "title":"Being a researcher (in Information Science and Technology)",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~being-researcher\/XDP~COURSE!~being-researcher.jpeg",
+  "description":"The course provides a broad view of how to become and progress as a researcher. It spans over a wide range of topics, from the historical development of scientific thought to research methodology, to the pragmatics of publication, research funding, evaluation, and promotion in a researcher\u2019s career. It also stresses the ethical aspects of research. Although the course speaks about scientific research in general, it especially focuses on the field on Information and Communication Science and Technology.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:33:43Z",
+  "university":"Politecnico di Milano"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/ethics-technology-engineering",
+  "title":"Ethics, Technology and Engineering",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~ethics-technology-engineering\/XDP~COURSE!~ethics-technology-engineering.jpeg",
+  "description":"There is an increasing attention to ethics in engineering practice. Engineers are supposed not only to carry out their work competently and skilfully, but also to be aware of the broader ethical and social implications of engineering and to be able to reflect on these.  According to the Engineering Criteria 2000 of the Accreditation Board for Engineering and Technology (ABET) in the US, engineers must have \u201can understanding of professional and ethical responsibility\u201d and should \"understand the impact of engineering solutions in a global and societal context.\u201d",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:34:14Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/computers-waves-simulations",
+  "title":"Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~computers-waves-simulations\/XDP~COURSE!~computers-waves-simulations.jpeg",
+  "description":"Interested in learning how to solve partial differential equations with numerical methods and how to turn them into python codes? This course provides you with a basic introduction how to apply methods like the finite-difference method, the pseudospectral method, the linear and spectral element method to the 1D (or 2D) scalar wave equation. The mathematical derivation of the computational algorithm is accompanied by python codes embedded in Jupyter notebooks. In a unique setup you can see how the mathematical equations are transformed to a computer code and the results visualized. The emphasis is on illustrating the fundamental mathematical ingredients of the various numerical methods (e.g., Taylor series, Fourier series, differentiation, function interpolation, numerical integration) and how they compare. You will be provided with strategies how to ensure your solutions are correct, for example benchmarking with analytical solutions or convergence tests. The mathematical aspects are complemented by a basic introduction to wave physics, discretization, meshes, parallel programming, computing models.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:34:14Z",
+  "university":"Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen (LMU)"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/quantitative-methods",
+  "title":"Quantitative Methods",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~quantitative-methods\/XDP~COURSE!~quantitative-methods.jpeg",
+  "description":"Discover the principles of solid scientific methods in the behavioral and social sciences. Join us and learn to separate sloppy science from solid research!",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:34:45Z",
+  "university":"University of Amsterdam"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/research-methods",
+  "title":"Understanding Research Methods",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~research-methods\/XDP~COURSE!~research-methods.jpeg",
+  "description":"This MOOC is about demystifying research and research methods. It will outline the fundamentals of doing research, aimed primarily, but not exclusively, at the postgraduate level. It places the student experience at the centre of our endeavours by engaging learners in a range of robust and challenging discussions and exercises befitting SOAS, University of London's status as a research-intensive university and its rich research heritage.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:34:45Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/plant-bioinformatic-methods",
+  "title":"Plant Bioinformatic Methods Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~plant-bioinformatic-methods\/XDP~SPECIALIZATION!~plant-bioinformatic-methods.jpeg",
+  "description":"The past 15 years have been exciting ones in plant biology. Hundreds of plant genomes have been sequenced, RNA-seq has enabled transcriptome-wide expression profiling, and a proliferation of \"-seq\"-based methods has permitted protein-protein and protein-DNA interactions to be determined cheaply and in a high-throughput manner. These data sets in turn allow us to generate hypotheses at the click of a mouse or tap of a finger.The Plant Bioinformatics Specialization on Coursera introduces core bioinformatic competencies and resources, such as NCBI's Genbank, Blast, multiple sequence alignments, phylogenetics in Bioinformatic Methods I, followed by protein-protein interaction, structural bioinformatics and RNA-seq analysis in Bioinformatic Methods II. In Plant Bioinformatics we cover 33 plant-specific online tools from genome browsers to transcriptomic data mining to promoter\/network analyses and others. Last, a Plant Bioinformatics Capstone uses these tools to hypothesize a biological role for a gene of unknown function, summarized in a written lab report.This specialization is useful to any modern plant molecular biologist wanting to get a feeling for the incredible scope of data available to researchers. A small amount of R programming is introduced in Bioinformatic Methods II, but most of the tools are web applications. It is recommended that you have access to a laptop or desktop computer for running these as they may not work as mobile applications on your phone or tablet.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:34:45Z",
+  "university":"University of Toronto"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/cyber-security",
+  "title":"Cybersecurity Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~cyber-security\/XDP~SPECIALIZATION!~cyber-security.jpeg",
+  "description":"The Cybersecurity Specialization covers the fundamental concepts underlying the construction of secure systems, from the hardware to the software to the human-computer interface, with the use of cryptography to secure interactions. These concepts are illustrated with examples drawn from modern practice, and augmented with hands-on exercises involving relevant tools and techniques. Successful participants will develop a way of thinking that is security-oriented, better understanding how to think about adversaries and how to build systems that defend against them.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:35:29Z",
+  "university":"University of Maryland, College Park"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/quantitative-methods",
+  "title":"Quantitative Methods",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~quantitative-methods\/XDP~COURSE!~quantitative-methods.jpeg",
+  "description":"Discover the principles of solid scientific methods in the behavioral and social sciences. Join us and learn to separate sloppy science from solid research!",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:35:29Z",
+  "university":"University of Amsterdam"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/excel-vba-for-creative-problem-solving-part-1",
+  "title":"Excel\/VBA for Creative Problem Solving, Part 1",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~excel-vba-for-creative-problem-solving-part-1\/XDP~COURSE!~excel-vba-for-creative-problem-solving-part-1.jpeg",
+  "description":"\"Excel\/VBA for Creative Problem Solving, Part 1\" is aimed at learners who are seeking to augment, expand, optimize, and increase the efficiency of their Excel spreadsheet skills by tapping into the powerful programming, automation, and customization capabilities available with Visual Basic for Applications (VBA).",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:35:29Z",
+  "university":"University of Colorado Boulder"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/cyber-security",
+  "title":"Cybersecurity Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~cyber-security\/XDP~SPECIALIZATION!~cyber-security.jpeg",
+  "description":"The Cybersecurity Specialization covers the fundamental concepts underlying the construction of secure systems, from the hardware to the software to the human-computer interface, with the use of cryptography to secure interactions. These concepts are illustrated with examples drawn from modern practice, and augmented with hands-on exercises involving relevant tools and techniques. Successful participants will develop a way of thinking that is security-oriented, better understanding how to think about adversaries and how to build systems that defend against them.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:35:37Z",
+  "university":"University of Maryland, College Park"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/chemistry-1",
+  "title":"Chemistry",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~chemistry-1\/XDP~COURSE!~chemistry-1.jpeg",
+  "description":"This course is designed to cover subjects in advanced high school chemistry courses, correlating to the standard topics as established by the American Chemical Society. This course is a precursor to the Advanced Chemistry Coursera course. Areas that are covered include atomic structure, periodic trends, compounds, reactions and stoichiometry, bonding, and thermochemistry.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:36:50Z",
+  "university":"University of Kentucky"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/how-things-work",
+  "title":"How Things Work: An Introduction to Physics",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~how-things-work\/XDP~COURSE!~how-things-work.jpeg",
+  "description":"An introduction to physics in the context of everyday objects.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:36:50Z",
+  "university":"University of Virginia"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/excel-data-analysis-fundamentals",
+  "title":"Excel Fundamentals for Data Analysis",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~excel-data-analysis-fundamentals\/XDP~COURSE!~excel-data-analysis-fundamentals.jpeg",
+  "description":"As data becomes the modern currency, so the ability to analyse the data quickly and accurately has become of paramount importance. Excel with its extraordinarily broad range of features and capabilities is one of the most widely used programs for doing this. In the first course of our Excel Skills for Data Analysis and Visualization Specialization, you will learn the fundamentals of Excel for data analysis. When you have completed the course, you will be able to use a range of Excel tools and functions to clean and prepare data for analysis; automate data analysis with the help of Named Ranges and Tables; and use logical and lookup functions to transform, link and categorise data.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:36:50Z",
+  "university":"Macquarie University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/cinemaxe",
+  "title":"Introduction to advanced tomography",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~cinemaxe\/XDP~COURSE!~cinemaxe.jpeg",
+  "description":"In this course you get the chance to get teaching and hands-on experience with the complete workflow of high-resolution tomography analysis. You will get introduced to data acquisition, 3D reconstruction, segmentation and meshing and, finally, 3D modelling of data to extract physical parameters describing mechanical and flow properties. The teaching and the exercises will take place in close interaction with top experts in the field. Exercises will require some basic programming skills, and will be carried out in a common python environment.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:37:12Z",
+  "university":"Technical University of Denmark (DTU)"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/quantum-optics-single-photon",
+  "title":"Quantum Optics 1 : Single Photons",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~quantum-optics-single-photon\/XDP~COURSE!~quantum-optics-single-photon.jpeg",
+  "description":"This course gives you access to basic tools and concepts to understand research articles and books on modern quantum optics. You will learn about quantization of light, formalism to describe quantum states of light without any classical analogue, and observables allowing one to demonstrate typical quantum properties of these states. These tools will be applied to the emblematic case of a one-photon wave packet, which behaves both as a particle and a wave. Wave-particle duality is a great quantum mystery in the  words of Richard Feynman. You will be able to fully appreciate real experiments demonstrating wave-particle duality for a single photon, and applications to quantum technologies based on single photon sources, which are now commercially available. The tools presented in this course will be widely used in our second quantum optics course, which will present more advanced topics such as entanglement, interaction of quantized light with matter, squeezed light, etc...",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:37:27Z",
+  "university":"\u00c9cole Polytechnique"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/capstone-mars-mission",
+  "title":"Spacecraft Dynamics Capstone: Mars Mission",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~capstone-mars-mission\/XDP~COURSE!~capstone-mars-mission.jpeg",
+  "description":"The goal of this capstone spacecraft dynamics project is to employ the skills developed in the rigid body Kinematics, Kinetics and Control courses.  An exciting two-spacecraft mission to Mars is considered where a primary mother craft is in communication with a daughter vehicle in another orbit.  The challenges include determining the kinematics of the orbit frame and several desired reference frames, numerically simulating the attitude dynamics of the spacecraft in orbit, and implementing a feedback control that then drives different spacecraft body frames to a range of mission modes including sun pointing for power generation, nadir pointing for science gathering, mother spacecraft pointing for communication and data transfer.  Finally, an integrated mission simulation is developed that implements these attitude modes and explores the resulting autonomous closed-loop performance.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:37:27Z",
+  "university":"University of Colorado Boulder"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/spacecraft-dynamics-kinematics",
+  "title":"Kinematics: Describing the Motions of Spacecraft",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~spacecraft-dynamics-kinematics\/XDP~COURSE!~spacecraft-dynamics-kinematics.jpeg",
+  "description":"The movement of bodies in space (like spacecraft, satellites, and space stations) must be predicted and controlled with precision in order to ensure safety and efficacy. Kinematics is a field that develops descriptions and predictions of the motion of these bodies in 3D space. This course in Kinematics covers four major topic areas: an introduction to particle kinematics, a deep dive into rigid body kinematics in two parts (starting with classic descriptions of motion using the directional cosine matrix and Euler angles, and concluding with a review of modern descriptors like quaternions and Classical and Modified Rodrigues parameters). The course ends with a look at static attitude determination, using modern algorithms to predict and execute relative orientations of bodies in space.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:37:27Z",
+  "university":"University of Colorado Boulder"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/black-holes-astro-101",
+  "title":"Astro 101: Black Holes",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~black-holes-astro-101\/XDP~COURSE!~black-holes-astro-101.jpeg",
+  "description":"What is a black hole? Do they really exist? How do they form? How are they related",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:38:19Z",
+  "university":"University of Alberta"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/astrobiology-exploring-other-worlds",
+  "title":"Astrobiology: Exploring Other Worlds",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~astrobiology-exploring-other-worlds\/XDP~COURSE!~astrobiology-exploring-other-worlds.jpeg",
+  "description":"How are astronomers approaching their search for life in the universe? What have we learned from the surge of exoplanets discoveries? How likely is it that Earth does not host the only life in the Universe? In this course we explore the field of astrobiology, an emerging multidisciplinary field. Progress in astrobiology is driven by telescopes on the ground and in space, and by new insights on how life emerged on Earth and its diversity. The topics in this course range from the science of how exoplanets are detected, to the chemistry that supports the argument that the ingredients for life are common in the Universe.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:38:19Z",
+  "university":"University of Arizona"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/einstein-relativity",
+  "title":"Understanding Einstein: The Special Theory of Relativity",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~einstein-relativity\/XDP~COURSE!~einstein-relativity.jpeg",
+  "description":"In this course we will seek to \u201cunderstand Einstein,\u201d especially focusing on the special theory of relativity that Albert Einstein, as a twenty-six year old patent clerk, introduced in his \u201cmiracle year\u201d of 1905. Our goal will be to go behind the myth-making and beyond the popularized presentations of relativity in order to gain a deeper understanding of both Einstein the person and the concepts, predictions, and strange paradoxes of his theory. Some of the questions we will address include: How did Einstein come up with his ideas? What was the nature of his genius? What is the meaning of relativity? What\u2019s \u201cspecial\u201d about the special theory of relativity? Why did the theory initially seem to be dead on arrival? What does it mean to say that time is the \u201cfourth dimension\u201d? Can time actually run more slowly for one person than another, and the size of things change depending on their velocity? Is time travel possible, and if so, how? Why can\u2019t things travel faster than the speed of light? Is it possible to travel to the center of the galaxy and return in one lifetime? Is there any evidence that definitively confirms the theory, or is it mainly speculation? Why didn\u2019t Einstein win the Nobel Prize for the theory of relativity?",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:38:43Z",
+  "university":"Stanford University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/spacecraft-dynamics-kinematics",
+  "title":"Kinematics: Describing the Motions of Spacecraft",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~spacecraft-dynamics-kinematics\/XDP~COURSE!~spacecraft-dynamics-kinematics.jpeg",
+  "description":"The movement of bodies in space (like spacecraft, satellites, and space stations) must be predicted and controlled with precision in order to ensure safety and efficacy. Kinematics is a field that develops descriptions and predictions of the motion of these bodies in 3D space. This course in Kinematics covers four major topic areas: an introduction to particle kinematics, a deep dive into rigid body kinematics in two parts (starting with classic descriptions of motion using the directional cosine matrix and Euler angles, and concluding with a review of modern descriptors like quaternions and Classical and Modified Rodrigues parameters). The course ends with a look at static attitude determination, using modern algorithms to predict and execute relative orientations of bodies in space.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:38:44Z",
+  "university":"University of Colorado Boulder"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/analyze",
+  "title":"Analyzing the Universe",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~analyze\/XDP~COURSE!~analyze.jpeg",
+  "description":"Using publicly available data from NASA of actual satellite observations of astronomical  x-ray sources, we explore some of the mysteries of the cosmos, including neutron stars, black holes, quasars and supernovae.  We will analyze energy spectra and time series data to understand how these incredible objects work.  We utilize an imaging tool called DS9 to explore the amazing diversity of astronomical observations that have made x-ray astronomy one of the most active and exciting fields of  scientific investigation in the past 50 years.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:38:44Z",
+  "university":"Rutgers the State University of New Jersey"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/life-on-other-planets",
+  "title":"Imagining Other Earths",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~life-on-other-planets\/XDP~COURSE!~life-on-other-planets.jpeg",
+  "description":"Are we alone? This course introduces core concepts in astronomy, biology, and planetary science that enable the student to speculate scientifically about this profound question and invent their own solar systems.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:39:14Z",
+  "university":"Princeton University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/data-driven-astronomy",
+  "title":"Data-driven Astronomy",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~data-driven-astronomy\/XDP~COURSE!~data-driven-astronomy.jpeg",
+  "description":"Science is undergoing a data explosion, and astronomy is leading the way. Modern telescopes produce terabytes of data per observation, and the simulations required to model our observable Universe push supercomputers to their limits. To analyse this data scientists need to be able to think computationally to solve problems. In this course you will investigate the challenges of working with large datasets: how to implement algorithms that work; how to use databases to manage your data; and how to learn from your data with machine learning tools. The focus is on practical skills - all the activities will be done in Python 3, a modern programming language used throughout astronomy.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:39:14Z",
+  "university":"The University of Sydney"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/astrobiology-exploring-other-worlds",
+  "title":"Astrobiology: Exploring Other Worlds",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~astrobiology-exploring-other-worlds\/XDP~COURSE!~astrobiology-exploring-other-worlds.jpeg",
+  "description":"How are astronomers approaching their search for life in the universe? What have we learned from the surge of exoplanets discoveries? How likely is it that Earth does not host the only life in the Universe? In this course we explore the field of astrobiology, an emerging multidisciplinary field. Progress in astrobiology is driven by telescopes on the ground and in space, and by new insights on how life emerged on Earth and its diversity. The topics in this course range from the science of how exoplanets are detected, to the chemistry that supports the argument that the ingredients for life are common in the Universe.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:39:14Z",
+  "university":"University of Arizona"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/big-history",
+  "title":"Big History: Connecting Knowledge",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~big-history\/XDP~COURSE!~big-history.jpeg",
+  "description":"We currently face unprecedented challenges on a global scale. These problems do not neatly fall into disciplines. They are complicated, complex, and connected. Join us on this epic journey of 13.8 billion years starting at the Big Bang and travelling through time all the way to the future. Discover the connections in our world, the power of collective learning, how our universe and our world has evolved from incredible simplicity to ever-increasing complexity. Experience our modern scientific origin story through Big History and discover the important links between past, current, and future events. You will find two different types of lectures. \u2018Zooming In\u2019 lectures from multiple specialists enable you to understand key concepts through the lens of different disciplines, whilst David Christian's \u2018Big History Framework\u2019 lectures provide the connective overview for a journey through eight thresholds of Big History.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:39:37Z",
+  "university":"Macquarie University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/how-things-work",
+  "title":"How Things Work: An Introduction to Physics",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~how-things-work\/XDP~COURSE!~how-things-work.jpeg",
+  "description":"An introduction to physics in the context of everyday objects.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:39:37Z",
+  "university":"University of Virginia"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/astro",
+  "title":"Astronomy: Exploring Time and Space",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~astro\/XDP~COURSE!~astro.jpeg",
+  "description":"This course is designed for anyone who is interested in learning more about modern astronomy. We will help you get up to date on the most recent astronomical discoveries while also providing support at an introductory level for those who have no background in science.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:39:37Z",
+  "university":"University of Arizona"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/einstein-relativity",
+  "title":"Understanding Einstein: The Special Theory of Relativity",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~einstein-relativity\/XDP~COURSE!~einstein-relativity.jpeg",
+  "description":"In this course we will seek to \u201cunderstand Einstein,\u201d especially focusing on the special theory of relativity that Albert Einstein, as a twenty-six year old patent clerk, introduced in his \u201cmiracle year\u201d of 1905. Our goal will be to go behind the myth-making and beyond the popularized presentations of relativity in order to gain a deeper understanding of both Einstein the person and the concepts, predictions, and strange paradoxes of his theory. Some of the questions we will address include: How did Einstein come up with his ideas? What was the nature of his genius? What is the meaning of relativity? What\u2019s \u201cspecial\u201d about the special theory of relativity? Why did the theory initially seem to be dead on arrival? What does it mean to say that time is the \u201cfourth dimension\u201d? Can time actually run more slowly for one person than another, and the size of things change depending on their velocity? Is time travel possible, and if so, how? Why can\u2019t things travel faster than the speed of light? Is it possible to travel to the center of the galaxy and return in one lifetime? Is there any evidence that definitively confirms the theory, or is it mainly speculation? Why didn\u2019t Einstein win the Nobel Prize for the theory of relativity?",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:40:02Z",
+  "university":"Stanford University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/big-history",
+  "title":"Big History: Connecting Knowledge",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~big-history\/XDP~COURSE!~big-history.jpeg",
+  "description":"We currently face unprecedented challenges on a global scale. These problems do not neatly fall into disciplines. They are complicated, complex, and connected. Join us on this epic journey of 13.8 billion years starting at the Big Bang and travelling through time all the way to the future. Discover the connections in our world, the power of collective learning, how our universe and our world has evolved from incredible simplicity to ever-increasing complexity. Experience our modern scientific origin story through Big History and discover the important links between past, current, and future events. You will find two different types of lectures. \u2018Zooming In\u2019 lectures from multiple specialists enable you to understand key concepts through the lens of different disciplines, whilst David Christian's \u2018Big History Framework\u2019 lectures provide the connective overview for a journey through eight thresholds of Big History.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:40:02Z",
+  "university":"Macquarie University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/einstein-relativity",
+  "title":"Understanding Einstein: The Special Theory of Relativity",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~einstein-relativity\/XDP~COURSE!~einstein-relativity.jpeg",
+  "description":"In this course we will seek to \u201cunderstand Einstein,\u201d especially focusing on the special theory of relativity that Albert Einstein, as a twenty-six year old patent clerk, introduced in his \u201cmiracle year\u201d of 1905. Our goal will be to go behind the myth-making and beyond the popularized presentations of relativity in order to gain a deeper understanding of both Einstein the person and the concepts, predictions, and strange paradoxes of his theory. Some of the questions we will address include: How did Einstein come up with his ideas? What was the nature of his genius? What is the meaning of relativity? What\u2019s \u201cspecial\u201d about the special theory of relativity? Why did the theory initially seem to be dead on arrival? What does it mean to say that time is the \u201cfourth dimension\u201d? Can time actually run more slowly for one person than another, and the size of things change depending on their velocity? Is time travel possible, and if so, how? Why can\u2019t things travel faster than the speed of light? Is it possible to travel to the center of the galaxy and return in one lifetime? Is there any evidence that definitively confirms the theory, or is it mainly speculation? Why didn\u2019t Einstein win the Nobel Prize for the theory of relativity?",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:40:02Z",
+  "university":"Stanford University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/astro",
+  "title":"Astronomy: Exploring Time and Space",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~astro\/XDP~COURSE!~astro.jpeg",
+  "description":"This course is designed for anyone who is interested in learning more about modern astronomy. We will help you get up to date on the most recent astronomical discoveries while also providing support at an introductory level for those who have no background in science.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:40:53Z",
+  "university":"University of Arizona"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/probability-intro",
+  "title":"Introduction to Probability and Data with R",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~probability-intro\/XDP~COURSE!~probability-intro.jpeg",
+  "description":"This course introduces you to sampling and exploring data, as well as basic probability theory and Bayes' rule. You will examine various types of sampling methods, and discuss how such methods can impact the scope of inference. A variety of exploratory data analysis techniques will be covered, including numeric summary statistics and basic data visualization. You will be guided through installing and using R and RStudio (free statistical software), and will use this software for lab exercises and a final project. The concepts and techniques in this course will serve as building blocks for the inference and modeling courses in the Specialization.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:40:53Z",
+  "university":"Duke University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/data-scientists-tools",
+  "title":"The Data Scientist\u2019s Toolbox",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~data-scientists-tools\/XDP~COURSE!~data-scientists-tools.jpeg",
+  "description":"In this course you will get an introduction to the main tools and ideas in the data scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with. There are two components to this course. The first is a conceptual introduction to the ideas behind turning data into actionable knowledge. The second is a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:40:53Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-data-analytics",
+  "title":"Google Data Analytics Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-data-analytics\/XDP~SPECIALIZATION!~google-data-analytics.jpeg",
+  "description":"Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:41:40Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/excel-data-visualization",
+  "title":"Data Visualization in Excel",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~excel-data-visualization\/XDP~COURSE!~excel-data-visualization.jpeg",
+  "description":"In an age now driven by \"big data\", we need to cut through the noise and present key information in a way that can be quickly consumed and acted upon making data visualization an increasingly important skill. Visualizations need to not only present data in an easy to understand and attractive way, but they must also provide context for the data, tell a story, achieving that fine balance between form and function. Excel has many rivals in this space, but it is still an excellent choice, particularly if it's where your data resides. It offers a wealth of tools for creating visualizations other than charts and the chart options available are constantly increasing and improving, so the newer versions now include waterfall charts, sunburst diagrams and even map charts. But what sets Excel apart is its flexibility, it gives us total creative control over our designs so if needed we could produce our own animated custom chart to tell the right story for our data.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:41:40Z",
+  "university":"Macquarie University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/ciencia-computacao-python-conceitos",
+  "title":"Introdu\u00e7\u00e3o \u00e0 Ci\u00eancia da Computa\u00e7\u00e3o com Python Parte 1",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~ciencia-computacao-python-conceitos\/XDP~COURSE!~ciencia-computacao-python-conceitos.jpeg",
+  "description":"Bem vindo ao curso de Introdu\u00e7\u00e3o \u00e0 Ci\u00eancia da Computa\u00e7\u00e3o destinado aos alunos regulares da Universidade de S\u00e3o Paulo e a todos os demais interessados em aprender n\u00e3o s\u00f3 a programar em Python mas tamb\u00e9m os conceitos b\u00e1sicos da Ci\u00eancia da Computa\u00e7\u00e3o!",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:41:40Z",
+  "university":"Universidade de S\u00e3o Paulo"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/excel-intermediate-1",
+  "title":"Excel Skills for Business: Intermediate I",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~excel-intermediate-1\/XDP~COURSE!~excel-intermediate-1.jpeg",
+  "description":"Spreadsheet software remains one of the most ubiquitous pieces of software used in workplaces across the world. Learning to confidently operate this software means adding a highly valuable asset to your employability portfolio. In the United States alone, millions of job advertisements requiring Excel skills are posted every day. Research by Burning Glass Technologies and Capital One shows that digitals skills lead to higher income and better employment opportunities at a time when digital skills job are growing much faster than non-digital jobs.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:42:21Z",
+  "university":"Macquarie University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/spatial-analysis-satellite-imagery-in-a-gis",
+  "title":"Spatial Analysis and Satellite Imagery in a GIS",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~spatial-analysis-satellite-imagery-in-a-gis\/XDP~COURSE!~spatial-analysis-satellite-imagery-in-a-gis.jpeg",
+  "description":"In this course, you will learn how to analyze map data using different data types and methods to answer geographic questions. First, you will learn how to filter a data set using different types of queries to find just the data you need to answer a particular question. Then, we will discuss simple yet powerful analysis methods that use vector data to find spatial relationships within and between data sets. In this section, you will also learn about how to use ModelBuilder, a simple but powerful tool for building analysis flowcharts that can then also be run as models. You will then learn how to find, understand, and use remotely sensed data such as satellite imagery, as a rich source of GIS data. You will then learn how to analyze raster data. Finally, you will complete your own project where you get to try out the new skills and tools you have learned about in this course.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:42:21Z",
+  "university":"University of Toronto"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/data-analytics-methods-for-marketing",
+  "title":"Data Analytics Methods for Marketing",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~data-analytics-methods-for-marketing\/XDP~COURSE!~data-analytics-methods-for-marketing.jpeg",
+  "description":"This course explores common analytics methods used by marketers.  You\u2019ll learn how to define a target audience using segmentation with K-means clustering.  You\u2019ll also explore how linear regression can help marketers plan and forecast.  You\u2019ll learn to evaluate the effectiveness of advertising using experiments as well as observational methods and you\u2019ll explore methods to optimize your marketing mix; marketing mix modeling and attribution.  Finally, you\u2019ll learn to evaluate sales funnel shapes, visualize and optimize them.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:42:21Z",
+  "university":"Meta"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/excel-essentials",
+  "title":"Excel Skills for Business: Essentials",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~excel-essentials\/XDP~COURSE!~excel-essentials.jpeg",
+  "description":"In this first course of the specialization Excel Skills for Business, you will learn the essentials of Microsoft Excel. Within six weeks, you will be able to expertly navigate the Excel user interface, perform basic calculations with formulas and functions, professionally format spreadsheets, and create visualizations of data through charts and graphs.",
+  "rating":4.9,
+  "timestamp":"2022-07-30T00:43:00Z",
+  "university":"Macquarie University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/wharton-customer-analytics",
+  "title":"Customer Analytics",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~wharton-customer-analytics\/XDP~COURSE!~wharton-customer-analytics.jpeg",
+  "description":"Data about our browsing and buying patterns are everywhere.  From credit card transactions and online shopping carts, to customer loyalty programs and user-generated ratings\/reviews, there is a staggering amount of data that can be used to describe our past buying behaviors, predict future ones, and prescribe new ways to influence future purchasing decisions. In this course, four of Wharton\u2019s top marketing professors will provide an overview of key areas of customer analytics: descriptive analytics, predictive analytics, prescriptive analytics, and their application to real-world business practices including Amazon, Google, and Starbucks to name a few. This course provides an overview of the field of analytics so that you can make informed business decisions. It is an introduction to the theory of customer analytics, and is not intended to prepare learners to perform customer analytics.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:43:00Z",
+  "university":"University of Pennsylvania"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/wharton-ai-fundamentals-non-data-scientists",
+  "title":"AI Fundamentals for Non-Data Scientists",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~wharton-ai-fundamentals-non-data-scientists\/XDP~COURSE!~wharton-ai-fundamentals-non-data-scientists.jpeg",
+  "description":"In this course, you will go in-depth to discover how Machine Learning is used to handle and interpret Big Data. You will get a detailed look at the various ways and methods to create algorithms to incorporate into your business with such tools as Teachable Machine and TensorFlow. You will also learn different ML methods, Deep Learning, as well as the limitations but also how to drive accuracy and use the best training data for your algorithms. You will then explore GANs and VAEs, using your newfound knowledge to engage with AutoML to help you start building algorithms that work to suit your needs. You will also see exclusive interviews with industry leaders, who manage Big Data for companies such as McDonald's and Visa. By the end of this course, you will have learned different ways to code, including how to use no-code tools, understand Deep Learning, how to measure and review errors in your algorithms, and how to use Big Data to not only maintain customer privacy but also how to use this data to develop different strategies that will drive your business.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:43:00Z",
+  "university":"University of Pennsylvania"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/ask-questions-make-decisions",
+  "title":"Ask Questions to Make Data-Driven Decisions",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~ask-questions-make-decisions\/XDP~COURSE!~ask-questions-make-decisions.jpeg",
+  "description":"This is the second course in the Google Data Analytics Certificate. These courses will equip you with the skills needed to apply to introductory-level data analyst jobs. You\u2019ll build on your understanding of the topics that were introduced in the first Google Data Analytics Certificate course. The material will help you learn how to ask effective questions to make data-driven decisions, while connecting with stakeholders\u2019 needs. Current Google data analysts will continue to instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:43:35Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/data-science-python",
+  "title":"Applied Data Science with Python Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~data-science-python\/XDP~SPECIALIZATION!~data-science-python.jpeg",
+  "description":"The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. This skills-based specialization is intended for learners who have a basic python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data.",
+  "rating":4.5,
+  "timestamp":"2022-07-30T00:43:35Z",
+  "university":"University of Michigan"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/ibm-data-analyst",
+  "title":"IBM Data Analyst Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~ibm-data-analyst\/XDP~SPECIALIZATION!~ibm-data-analyst.jpeg",
+  "description":"Gain the",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:43:35Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/assess-for-success",
+  "title":"Assess for Success: Marketing Analytics and Measurement",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~assess-for-success\/XDP~COURSE!~assess-for-success.jpeg",
+  "description":"Assess for Success: Marketing Analytics and Measurement is the fifth of seven courses in the Google Digital Marketing & E-commerce Certificate. This course explores marketing analytics practices and tools. Digital marketing and e-commerce professionals are expected to analyze data from various sources (such as web pages, digital marketing channels, and e-commerce sites) and use them to gain customer insights. You\u2019ll create media plans and set performance goals. You\u2019ll learn how to measure, manage, and analyze data from marketing campaigns using Google Analytics, Google Ads, and similar tools. Then, learn how to adjust a marketing budget according to insights extracted from key metrics. You\u2019ll use A\/B test results to optimize a campaign and identify metrics that define a campaign's success. You will be able to analyze and visualize data and insights in spreadsheets and prepare presentations to share campaign progress or results with stakeholders.",
+  "rating":4.5,
+  "timestamp":"2022-07-30T00:44:03Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/data-science-fundamentals-python-sql",
+  "title":"Data Science Fundamentals with Python and SQL Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~data-science-fundamentals-python-sql\/XDP~SPECIALIZATION!~data-science-fundamentals-python-sql.jpeg",
+  "description":"Data Science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Specialization from IBM will help anyone interested in pursuing a career in data science by teaching them fundamental skills to get started in this in-demand field.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:44:03Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/introduction-data-science",
+  "title":"Introduction to Data Science Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~introduction-data-science\/XDP~SPECIALIZATION!~introduction-data-science.jpeg",
+  "description":"Interested in learning more about data science, but don\u2019t know where to start? This 4-course Specialization from IBM will provide you with the key foundational skills any data scientist needs to prepare you for a career in data science or further advanced learning in the field.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:44:03Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/ibm-data-science",
+  "title":"IBM Data Science Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~ibm-data-science\/XDP~SPECIALIZATION!~ibm-data-science.jpeg",
+  "description":"Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:44:52Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-data-analytics",
+  "title":"Google Data Analytics Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-data-analytics\/XDP~SPECIALIZATION!~google-data-analytics.jpeg",
+  "description":"Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:44:52Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/google-data-analytics",
+  "title":"Google Data Analytics Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~google-data-analytics\/XDP~SPECIALIZATION!~google-data-analytics.jpeg",
+  "description":"Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers.",
+  "rating":4.8,
+  "timestamp":"2022-07-30T00:44:52Z",
+  "university":"Google"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/data-science-foundations-r",
+  "title":"Data Science: Foundations using R Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~data-science-foundations-r\/XDP~SPECIALIZATION!~data-science-foundations-r.jpeg",
+  "description":"Ask the right questions, manipulate data sets, and create visualizations to communicate results.",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:45:32Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/professional-certificates\/ibm-data-science",
+  "title":"IBM Data Science Professional Certificate",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~ibm-data-science\/XDP~SPECIALIZATION!~ibm-data-science.jpeg",
+  "description":"Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a",
+  "rating":4.6,
+  "timestamp":"2022-07-30T00:45:32Z",
+  "university":"IBM Skills Network"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/jhu-data-science",
+  "title":"Data Science Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~jhu-data-science\/XDP~SPECIALIZATION!~jhu-data-science.jpeg",
+  "description":"Ask the right questions, manipulate data sets, and create visualizations to communicate results.",
+  "rating":4.5,
+  "timestamp":"2022-07-30T00:45:32Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/physical-chemistry",
+  "title":"Introduction to Physical Chemistry",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~physical-chemistry\/XDP~COURSE!~physical-chemistry.jpeg",
+  "description":"Chemical reactions underpin the production of pretty much everything in our modern world.  But, what is the driving force behind reactions?  Why do some reactions occur over geological time scales whilst others are so fast that we need femtosecond-pulsed lasers to study them?  Ultimately, what is going on at the atomic level?  Discover the answers to such fundamental questions and more on this course in introductory physical chemistry.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:45:41Z",
+  "university":"University of Manchester"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/basic-chemistry",
+  "title":"Introduction to Chemistry:  Structures and Solutions",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~basic-chemistry\/XDP~COURSE!~basic-chemistry.jpeg",
+  "description":"This is an introductory course for students with limited background in chemistry; basic concepts such as atomic and molecular structure, solutions, phases of matter, and quantitative problem solving will be emphasized with the goal of preparing students for further study in chemistry.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:45:42Z",
+  "university":"Duke University"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/specializations\/jhu-data-science",
+  "title":"Data Science Specialization",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~jhu-data-science\/XDP~SPECIALIZATION!~jhu-data-science.jpeg",
+  "description":"Ask the right questions, manipulate data sets, and create visualizations to communicate results.",
+  "rating":4.5,
+  "timestamp":"2022-07-30T00:45:32Z",
+  "university":null
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/physical-chemistry",
+  "title":"Introduction to Physical Chemistry",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~physical-chemistry\/XDP~COURSE!~physical-chemistry.jpeg",
+  "description":"Chemical reactions underpin the production of pretty much everything in our modern world.  But, what is the driving force behind reactions?  Why do some reactions occur over geological time scales whilst others are so fast that we need femtosecond-pulsed lasers to study them?  Ultimately, what is going on at the atomic level?  Discover the answers to such fundamental questions and more on this course in introductory physical chemistry.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:45:41Z",
+  "university":"University of Manchester"
+ },
+ {
+  "url":"https:\/\/www.coursera.org\/learn\/basic-chemistry",
+  "title":"Introduction to Chemistry:  Structures and Solutions",
+  "image":"https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~COURSE!~basic-chemistry\/XDP~COURSE!~basic-chemistry.jpeg",
+  "description":"This is an introductory course for students with limited background in chemistry; basic concepts such as atomic and molecular structure, solutions, phases of matter, and quantitative problem solving will be emphasized with the goal of preparing students for further study in chemistry.",
+  "rating":4.7,
+  "timestamp":"2022-07-30T00:45:42Z",
+  "university":"Duke University"
+ }
+]
